@@ -1,2 +1,4 @@
 # DevOps-Crash-Course
 This beginner's DevOps course is your first step toward a DevOps engineering. This repo contains Cloud Native Theory, Workshops, Guides, Cool Cloud Native Projects and students contribution area.
+
+This repository contains the content of a DevOps course to send PR or make forks, with the idea to gather knowledge from different countries and mindsets. It is also intended to be a guide to understand, learn and contribute towards the use of cloud native technologies, focusing specifically on the [CNCF](https://landscape.cncf.io/) projects. Finally, you will find in this repository Cloud Native Workshops, guides and a contribution area for students to promote CNCF tecnologies in general. This content is based on the syllabus of the current course from [F.A.S.T University](https://www.nu.edu.pk/) of Pakistan.
