@@ -42,6 +42,7 @@ This repository contains the content of a DevOps course to send PR or make forks
 
 ## Communities
 - [Cloud Native Islamabad](https://community.cncf.io/islamabad/)
+- [Join CN Islamabad Discord Server](https://discord.gg/FrBKHFN8h9)
 
 ## DevOps YouTube
 - [Viktor Farcic](https://www.youtube.com/c/DevOpsToolkit)
