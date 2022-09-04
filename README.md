@@ -14,6 +14,7 @@ This repository contains the content of a DevOps course to send PR or make forks
 - 📑 [Slides](#slides)
 - 🎤 [Podcasts](#podcasts)
 - 📺 [DevOps YouTube](#devops-youtube)
+- 📺 [DevOps Workshop](#devops-workshop)
 
 ## CNCF Projects
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
@@ -43,6 +44,10 @@ This repository contains the content of a DevOps course to send PR or make forks
 ## Communities
 - [Cloud Native Islamabad](https://community.cncf.io/islamabad/)
 - [Join CN Islamabad Discord Server](https://discord.gg/FrBKHFN8h9)
+
+## DevOps Workshop
+- [Docker 101](https://www.youtube.com/watch?v=0mxhS7H6bxM&t=1s)
+- [A Guide to DevOps Road Map](https://www.youtube.com/watch?v=HUcBO4ssuWs&t=4s)
 
 ## DevOps YouTube
 - [Viktor Farcic](https://www.youtube.com/c/DevOpsToolkit)
