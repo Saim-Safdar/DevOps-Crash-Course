@@ -71,4 +71,4 @@ This repository contains the content of a DevOps course to send PR or make forks
 - [Docker Deep Dive](https://www.slideshare.net/MehwishHayat3/docker-deep-dive-understanding-docker-engine-docker-for-devops?qid=0d2f5734-7fce-4f5c-8c0d-c555d6e53608&v=&b=&from_search=1)
 
 ## Course Progress 
-- [Docs sheet for students medium blog](https://docs.google.com/document/d/1VxbcZ8q_QlXpQOEhbd9PSGzfGACPJ-G9CFy75aKzxkI/edit)
+- [Docs sheet for students medium blog](https://docs.google.com/spreadsheets/d/1WCnEkaPGQr-BNXGG3JIzK5pzi7EmZq3hjvM_A4Uq1_g/edit#gid=0)
