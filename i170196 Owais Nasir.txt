@@ -1,1 +1,2 @@
-https://medium.com/@owaisnasir433/creating-a-custom-wordpress-theme-96664b662072
+Blog 2:
+https://medium.com/@owaisnasir433/kubernetes-pods-and-how-they-are-created-c6f6e15ab87d
