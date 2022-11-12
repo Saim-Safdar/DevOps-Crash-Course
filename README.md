@@ -16,6 +16,8 @@ This repository contains the content of a DevOps course to send PR or make forks
 - 🏆 [Course Progress](#course-progress)
 - 📺 [DevOps YouTube](#devops-youtube)
 - 📺 [DevOps Workshop](#devops-workshop)
+- 📺 [Cloud Native Students Days](#cloud-native-students-days)
+
 
 ## CNCF Projects
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
@@ -73,3 +75,6 @@ This repository contains the content of a DevOps course to send PR or make forks
 ## Course Progress 
 - [Docs sheet for students medium blog](https://docs.google.com/spreadsheets/d/1WCnEkaPGQr-BNXGG3JIzK5pzi7EmZq3hjvM_A4Uq1_g/edit#gid=0)
 - [Students Contribution Area](Students/contribution.md)
+
+## Cloud Native Students Days
+- [Event Planning and Hosting](CNSDays/eventplanning.md)
