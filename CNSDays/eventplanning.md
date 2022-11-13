@@ -16,3 +16,7 @@ List of activities and names of students managing the activities during the even
 #### YouTube intro and outro 
 
 #### CFP planning 
+
+
+### Adeel (19I-1869) Interested in Posts, Banners and Video Editing. Tools i use: Photoshop, Premiere Pro, Canva.
+### Sample of my work (Poster): https://drive.google.com/file/d/1kHZAKoPVR78a_5__00UoEuSHDcwsjw4V/view?usp=sharing
