@@ -21,3 +21,6 @@ List of activities and names of students managing the activities during the even
 
 ### Adeel 19I-1869 interested in Post, Banners and Video Editing. Tools I use: Canva, Photoshop and Adobe Premiere. 
 ### Sample of my work (Poster): https://drive.google.com/file/d/1kHZAKoPVR78a_5__00UoEuSHDcwsjw4V/view?usp=sharing
+
+### 19I-1750 Fateh Muhammad interested in presenting a topic: "Docker on Spotlight (Intro to Docker and why we even need it)"
+### Sample of work (Blog) on medium: https://fatehmuhammad.medium.com/introduction-to-docker-part-1-3cff7559e372
