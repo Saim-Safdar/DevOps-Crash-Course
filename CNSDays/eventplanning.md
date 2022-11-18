@@ -1,33 +1,47 @@
 # Cloud Native Students Days
-List of activities and names of students managing the activities during the event.
+> List of activities and names of students managing the activities during the event.
 
-#### Twitter - LinkedIn Post
+#:juggling_person: Activities
 
-#### Twitter - LinkedIn banners 
+- ####Twitter - LinkedIn Post
 
-#### YouTube Livestream moderation 
+- ####Twitter - LinkedIn banners 
 
-#### Streamyard Moderation 
+- ####YouTube Livestream moderation 
 
-#### Discrod Integration with YouTube chat
+- ####Streamyard Moderation 
 
-#### Video Editing 
+- ####Discrod Integration with YouTube chat
 
-#### YouTube intro and outro 
+- ####Video Editing 
 
-#### CFP planning 
+- ####YouTube intro and outro 
 
-
-### Student Contributions
-
-#### 1. Adeel 19I-1869 interested in Post, Banners and Video Editing. Tools I use: Canva, Photoshop and Adobe Premiere. 
-#####    Sample of my work (Poster): https://drive.google.com/file/d/1kHZAKoPVR78a_5__00UoEuSHDcwsjw4V/view?usp=sharing
-
-#### 2. 19I-1750 Fateh Muhammad interested in presenting a topic: "Docker on Spotlight (Intro to Docker and why we even need it)"
-#####    Sample of work (Blog) on medium: https://fatehmuhammad.medium.com/introduction-to-docker-part-1-3cff7559e372
-
-#### 3. 19I-1772 Abdullah interested in publicity on social media, (LinkedIn and Twitter), making logos and presentation
-
-#### 4. 19I-1796 Majid Ahmad interested in YouTube Livestream moderation. 
+- ####CFP planning 
 
 
+# :nerd_face: Student Contributions
+
+##### 1. Adeel (19I-1869) 
+> Post
+Banners
+Video Editing. <br>
+**Sample of my work (Poster):** <br>Tools I use: Canva, Photoshop and Adobe Premiere. 
+https://drive.google.com/file/d/1kHZAKoPVR78a_5__00UoEuSHDcwsjw4V/view?usp=sharing
+
+##### 2. Fateh Muhammad (19I-1750)  
+> interested in presenting a topic: "Docker on Spotlight (Intro to Docker and why we even need it)"<br>
+**Sample of work (Blog) on medium:** https://fatehmuhammad.medium.com/introduction-to-docker-part-1-3cff7559e372
+
+##### 3. Abdullah (19I-1772)  
+> publicity on social media (LinkedIn and Twitter) 
+making logos  
+presentation
+
+##### 4. Majid Ahmad (19I-1796)  
+> YouTube Livestream moderation. 
+
+##### 5. 18I-0560 Muhid Abid interested in:
+> Twitter-LinkedIn posts
+Twitter-LinkedIn bannersTwitter-LinkedIn banners
+CFP planning
