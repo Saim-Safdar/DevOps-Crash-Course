@@ -1,23 +1,23 @@
 # Cloud Native Students Days
 > List of activities and names of students managing the activities during the event.
 
-#:juggling_person: Activities
+# :juggling_person: Activities
 
-- ####Twitter - LinkedIn Post
+- Twitter/LinkedIn Post
 
-- ####Twitter - LinkedIn banners 
+- Twitter/LinkedIn banners 
 
-- ####YouTube Livestream moderation 
+- YouTube Livestream moderation 
 
-- ####Streamyard Moderation 
+- Streamyard Moderation 
 
-- ####Discrod Integration with YouTube chat
+- Discrod Integration with YouTube chat
 
-- ####Video Editing 
+- Video Editing 
 
-- ####YouTube intro and outro 
+- YouTube intro and outro 
 
-- ####CFP planning 
+- CFP planning 
 
 
 # :nerd_face: Student Contributions
