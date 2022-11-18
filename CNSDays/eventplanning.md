@@ -41,7 +41,7 @@ presentation
 ##### 4. Majid Ahmad (19I-1796)  
 > YouTube Livestream moderation. 
 
-##### 5. 18I-0560 Muhid Abid interested in:
+##### 5. Muhid Abid (18I-0560)
 > Twitter-LinkedIn posts
 Twitter-LinkedIn bannersTwitter-LinkedIn banners
 CFP planning
