@@ -276,7 +276,7 @@ Twitter: https://twitter.com/maryamzaheer27
 Following are the topics we discussed in DevOps course:
 1.	Docker (Basics + Application)
 2.	Gitops
-3.	Kyverno (Docker Alternative)
+3.	Kyverno (Kubernetes Policy engine)
 5.	Podman (Docker Alternative)
 6.	SBOM
 7.	Signing container images
