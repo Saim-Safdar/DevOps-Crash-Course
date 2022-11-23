@@ -267,3 +267,47 @@ The best place for learning in the field of DevOps is the official Documentation
 2. https://developer.hashicorp.com/vagrant/docs/vagrantfile
 3. https://www.youtube.com/watch?v=vBreXjkizgo 
 
+# Maryam Zaheer:
+Linkedin: https://www.linkedin.com/in/maryam-zaheer-b19902196
+
+Twitter: https://twitter.com/maryamzaheer27
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+1.	Docker (Basics + Application)
+2.	Gitops
+3.	Kyverno (Docker Alternative)
+5.	Podman (Docker Alternative)
+6.	SBOM
+7.	Signing container images
+8.	Cosign
+9.	Why Kubernetes was introduced
+10.	Kubernetes Basics
+11.	Ingress
+12.	GKE, AKS, k3s, minikube, and KIND
+13.	Servce mesh( Istio, Linkerd)
+
+# My Blogs:
+## 1.	Kyverno
+In this blog, i discussed the basics of kyverno, how its work and gave an introduction to kyverno as a policy engine. 
+
+https://medium.com/@i180723/kyverno-26e2071570bd
+
+
+## 2.	Kyverno-Kubernetes Policy Manager
+In this blog, i duscussed the different actions kyverno is capable of performing and the installation of kyverno.
+
+https://medium.com/@i180723/kyverno-66c9e673b5cf
+
+# Links to learning resources:
+1.	https://www.docker.com/
+2.	https://kubernetes.io/
+3.	https://www.aquasec.com/cloud-native-academy/container-platforms/containerd/
+4. https://kyverno.io/docs/
+5. https://docs.sigstore.dev/cosign/overview/
+6.	https://kubernetes.io/docs/concepts/services-networking/ingress/
+7.	https://istio.io/
+8.	https://docs.sigstore.dev/cosign/overview/
+9.	https://podman.io/
+10.	https://linkerd.io
+
