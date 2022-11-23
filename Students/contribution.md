@@ -267,3 +267,47 @@ The best place for learning in the field of DevOps is the official Documentation
 2. https://developer.hashicorp.com/vagrant/docs/vagrantfile
 3. https://www.youtube.com/watch?v=vBreXjkizgo 
 
+
+
+ <br /> <br /><br /> <br />
+# Muhammad Saad Tanveer:
+   Linkedin: https://www.linkedin.com/in/saad-tanveer-575ab8176/
+
+   Twitter: https://twitter.com/saadtanveer1140
+
+   ## What I learned
+   __General Learning__
+   1. The importance of blog writing and how it can help in my career.
+   2. How to contribute in open source.
+   3. How to use Discord or Slack other platform for professional communication and to contribute and be a part of community.
+   4. The importance of sharing your learnings on social media platform.
+
+   __Technology Learning:__
+   1. Docker (how to build container, images, write dockerfile, multistage dockerfile, docker-compose).
+   2. Containerd, karniko, Buildah & Podman
+   3. Kubernetes (Architecture, what problem it solved, service and pods, ingress, automating deployment, healing, Secret and configuration management)
+   4. K8s distros (k3s, microk8s)
+   5. Kyverno policy Engine (Architecture, what problem it solved, where it fits in kubernetes Control Plane).
+   6. Software supply chain security (Chainguard)
+   7. Service Mesh (Istio)
+
+
+   ## My Blogs:
+  ### 1. How to Dockerize you Angular Application.
+   https://medium.com/@saad.tanveer11400/dockerize-you-angular-application-f2c61fc91fdd
+
+  ### 2. How Kasm provides you with Browser Isolation.
+   https://medium.com/@saad.tanveer11400/browser-isolation-using-kasm-d15b91f7b765
+
+
+# Links to Learning Resources
+* https://kubernetes.io/docs/home/
+* https://www.docker.com/blog/
+* https://kyverno.io/docs/
+* https://www.youtube.com/@CloudNativeIslamabad
+* https://www.youtube.com/@BretFisher
+* https://www.youtube.com/@TechWorldwithNana
+
+ <br /> <br /> <br /> <br />
+
+
