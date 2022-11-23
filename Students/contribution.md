@@ -84,3 +84,47 @@ I have written two blogs as of the writing of this commit.
 ## 2. Kubernetes 3 and Its Installer K3SUP:
 
   Medium Link: https://medium.com/@i181568/all-about-k3s-and-k3sup-20dbda252732
+  
+#  Mudassir Waheed
+
+Twitter:  @Mudassirw165
+
+#  What I Learned
+
+1. Gitops
+
+2. Basics of Docker (including architecture of Docker)
+
+3. How to use Docker
+
+4. Docker Alternatives (Podman, Kyverno, to name a few)
+
+5. Signing Container (Docker) Images (Cosign)
+
+6. Basics of Kubernetes
+
+7. Different versions of Kubernetes such as k3s, k8s etc.
+
+Why there was a need for Kubernetes when Docker and other such applications existed # Blogs I have written
+I have written two blogs as of the writing of this commit. T
+
+hese can be found at medium.com and on the official Cloud Native Islamabad Hashnode page https://cloudnativeislamabad.hashnode.dev/ 
+## 1. Github
+Medium Link: https://medium.com/@mudassirwaheed_86283/github-33d5311f0718 
+## 2. Kubernetes
+Medium Link: https://medium.com/@mudassirwaheed_86283/kubernetes-a-brief-overview-and-how-to-install-kubernetes-locally-blog-2-d4b975a33435  
+
+
+#  Learning Resources
+The best place for learning in the field of DevOps is the official Documentation of the software being used
+
+https://docs.docker.com/
+
+https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+
+https://www.aquasec.com/cloud-native-academy/container-platforms/containerd/
+
+https://kyverno.io/docs/
+
+https://docs.sigstore.dev/cosign/overview/
+
