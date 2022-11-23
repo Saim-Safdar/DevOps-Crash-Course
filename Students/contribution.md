@@ -49,3 +49,38 @@ The best place for learning in the field of DevOps is the official Documentation
 3. https://www.aquasec.com/cloud-native-academy/container-platforms/containerd/
 4. https://kyverno.io/docs/
 5. https://docs.sigstore.dev/cosign/overview/
+
+# Quassain Raza:
+Linkedin:https://www.linkedin.com/in/quassain-raza/
+
+Twitter:  https://twitter.com/QuassainRaza
+# What I learned
+What I learned in the course of DevOps were the topics
+
+1. Gitops
+
+2. Basics of Docker (including architecture of Docker)
+
+3. How to use Docker
+
+4. Docker Alternatives (Podman, Kyverno, to name a few)
+
+5. Signing Container (Docker) Images (Cosign)
+
+6. Basics of Kubernetes
+
+7. Different versions of Kubernetes such as k3s, k8s etc.
+
+8. Why there was a need for Kubernetes when Docker and other such applications existed
+
+# Blogs I have written
+I have written two blogs as of the writing of this commit. 
+
+## 1. DOCKER-BUILDKIT
+   
+   Medium Link:   https://medium.com/@i181568/docker-buildx-b5174e6eb21c
+   
+   
+## 2. Kubernetes 3 and Its Installer K3SUP:
+
+  Medium Link: https://medium.com/@i181568/all-about-k3s-and-k3sup-20dbda252732
