@@ -349,3 +349,39 @@ https://medium.com/@saad.tanveer11400/browser-isolation-using-kasm-d15b91f7b765
 * https://www.youtube.com/@BretFisher
 * https://www.youtube.com/@TechWorldwithNana 
 
+
+# Hurrairah:
+Linkedin: https://www.linkedin.com/in/hurrairah-nasir-81aa95214/
+
+Twitter: https://twitter.com/hurrairahN
+
+# What I learned
+1.	Docker 
+2. Podman
+3.	Project workflow with Docker
+4.	Kyverno 
+5.	Podman 
+6.	Buildah
+7.	Cosign
+8.	Kubernetes
+9.	Velero
+10. Open Source contribution
+
+# My Blogs:
+## 1.	Project workflow with Docker
+
+https://medium.com/@hurrim38/project-workflow-with-docker-understanding-the-practical-use-of-containerization-a982a14d68e5)
+
+
+## 2.	Podman an Alternative to Docker
+
+https://medium.com/@hurrim38/introduction-to-podman-an-alternative-to-docker-4fb16777516d
+
+# Links to learning resources:
+1.	https://www.docker.com/
+2.	https://kubernetes.io/
+4. https://kyverno.io/docs/
+5. https://podman.io/
+6. https://docs.sigstore.dev/cosign/overview/
+
+
