@@ -41,6 +41,44 @@ I have written two blogs as of the writing of this commit. These can be found at
    
    Hashnode Link: https://cloudnativeislamabad.hashnode.dev/understanding-docker-multi-stage-build
    
+   
+# Aliza Adnan:
+Linkedin: https://www.linkedin.com/in/aliza-adnan-5b6a3623a/
+
+Twitter: https://twitter.com/alizaadnan6
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+1.	Docker
+2.	Podman
+3.	SBOM
+4.	Cosign
+5.	Kubernetes
+6.	Ingress
+7.	GKE, AKS, k3s, minikube, and KIND
+8.	Servce mesh( Istio, Linkerd)
+
+# My Blogs:
+## 1.	The World of SBOM
+In this blog, i discussed what is SBOM, why it is needed, what is its lifecycle and what future it holds.
+
+https://medium.com/@alizadnan123/the-world-of-sbom-abf63003a74b
+
+
+## 2.	Gitsign: A new way to secure your commits
+In this blog, i discussed what is Gitsign, why it is needed along with its tutorial and limitations.
+
+https://medium.com/@alizadnan123/gitsign-a-new-way-to-secure-your-commits-ee5ab940ed1d
+
+# Links to learning resources:
+1.	https://www.docker.com/
+2.	https://kubernetes.io/
+3.	https://kubernetes.io/docs/concepts/services-networking/ingress/
+4.	https://istio.io/
+5.	https://docs.sigstore.dev/cosign/overview/
+6.	https://podman.io/
+7.	https://linkerd.io
+   
 
 # Faraz Ud Din:
 Linkedin: https://www.linkedin.com/in/farazi180453/
