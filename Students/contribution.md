@@ -2,13 +2,7 @@
 
 Things students have learned from DevOps course, blogpost they have written, social media profile links and links to learning resources
 
-
-# Zohaib Bashir:
-Linkedin: https://www.linkedin.com/in/zohaibbashir/
-
-Twitter:  https://twitter.com/mzbashir30
-
-# What I learned
+# What We learned
 What I learned in the course of DevOps were the topics
 
 1. Gitops
@@ -27,6 +21,11 @@ What I learned in the course of DevOps were the topics
 
 8. Why there was a need for Kubernetes when Docker and other such applications existed
 
+# Zohaib Bashir:
+Linkedin: https://www.linkedin.com/in/zohaibbashir/
+
+Twitter:  https://twitter.com/mzbashir30
+
 # Blogs I have written
 I have written two blogs as of the writing of this commit. These can be found at medium.com and on the official Cloud Native Islamabad Hashnode page https://cloudnativeislamabad.hashnode.dev/
 
@@ -41,6 +40,28 @@ I have written two blogs as of the writing of this commit. These can be found at
    Medium Link:  https://zohaibbashir.medium.com/understanding-docker-multi-stage-build-f8d3fdadbe79
    
    Hashnode Link: https://cloudnativeislamabad.hashnode.dev/understanding-docker-multi-stage-build
+   
+
+# Faraz Ud Din:
+Linkedin: https://www.linkedin.com/in/farazi180453/
+
+Twitter:  https://twitter.com/FarazAyaz_
+
+# Blogs I have written
+I have written Three blogs as of the writing of this commit. These can be found at medium.com and on the official Cloud Native Islamabad Hashnode page https://cloudnativeislamabad.hashnode.dev/
+
+## 1. Flutter For Beginners
+   
+   Medium Link:   https://medium.com/@i180453/flutter-for-beginners-d68c122cde2c
+
+## 2. Software Supply Chain Security Using In-Toto
+   
+   Medium Link:  https://medium.com/@i180453/in-toto-864a1e07d4
+   
+## 3. Falco (Kubernetes Runtime Security)
+   
+   Medium Link: https://medium.com/@i180453/falco-4504dbc492bf
+   
 
 
 # Ahmad Tahir Chaudhry:
