@@ -311,6 +311,31 @@ https://medium.com/@i180723/kyverno-66c9e673b5cf
 9.	https://podman.io/
 10.https://linkerd.io
 
+# Fatima Abid
+## What I learned
+Following are the topics we discussed in DevOps course:
+1.	How to use docker
+2.	Podman
+3.	Kaniko
+5.	Podman (Docker Alternative)
+6.	SBOM
+7.	Signing container images
+8.	Buildah
+9. Kubernetes
+10. containerd
+11. Service Mesh (Istio)
+
+## My Blogs
+### The Role of Software Bill of Material (SBOM) in Secure Development
+Hashnode Link:
+https://cloudnativeislamabad.hashnode.dev/the-role-of-software-bill-of-material-sbom-in-secure-development
+Medium Link:
+https://medium.com/@fatimaabid/sbom-37446e8d5c54
+### Static Pod
+Medium Link:
+https://medium.com/@fatimaabid/static-pods-242fa0a8dc
+
+
 # Muhammad Saad Tanveer:
 Linkedin: https://www.linkedin.com/in/saad-tanveer-575ab8176/
 
