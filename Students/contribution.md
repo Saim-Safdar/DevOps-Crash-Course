@@ -349,39 +349,56 @@ https://medium.com/@saad.tanveer11400/browser-isolation-using-kasm-d15b91f7b765
 * https://www.youtube.com/@BretFisher
 * https://www.youtube.com/@TechWorldwithNana 
 
+# Abdullah:
+Linkedin: https://www.linkedin.com/in/saad-tanveer-575ab8176/
 
-# Hurrairah:
-Linkedin: https://www.linkedin.com/in/hurrairah-nasir-81aa95214/
+Twitter: https://twitter.com/010_abdullah_
 
-Twitter: https://twitter.com/hurrairahN
+## What I learned
+1.Docker :
+   i.how to build container
+   ii.images, write dockerfile
+   iii.multistage dockerfile
+   iv.docker-compose
+2.Docker Alternativer (Kyverno and Podman)
+3.Kubernetes
+   i.Kubernetes Basics
+   ii.Different versions of Kubernetes such as k3s, k8s etc.
+   iii.GKE, AKS, EKS
+4.Signing Container Images using Cosign
+5.Kaniko and Buildah
+6. Docker Security and how to secure container images
+7.How blog writing can bring me to the spot light and help me land better career oppertunities 
+8.How to open source contributions, starting from the bottom and climing the ladder
+9.Importance of sharing my learnings on socail media platforms and communities 
+10. Software supply chain security (Chainguard)
+11. Service Mesh (Istio)
 
-# What I learned
-1.	Docker 
-2. Podman
-3.	Project workflow with Docker
-4.	Kyverno 
-5.	Podman 
-6.	Buildah
-7.	Cosign
-8.	Kubernetes
-9.	Velero
-10. Open Source contribution
 
-# My Blogs:
-## 1.	Project workflow with Docker
+## My Blogs:
+### 1. How to Dockerize you Angular Application.
+In this blog I generically discuss how to containerize a basic python application
+https://blog.devgenius.io/how-to-containerize-python-application-with-docker-ce930b192c68
 
-https://medium.com/@hurrim38/project-workflow-with-docker-understanding-the-practical-use-of-containerization-a982a14d68e5)
+### 2. Docker security: Risks and Best Practices.
+In this blog I dicuss all the threats and security risks faced while using Docker and some precautinary steps that we can take to secure docker.
+https://blog.devgenius.io/docker-security-risks-and-best-practices-4f94bea451a5
+
+### 2. Docker Security : Securing Docker Daemon using TLS.
+In this blog I discuss how to secure docker daemon using TLS security certificate. I go in depth as how to create public private keys, generate certificate and apply on docker.
+https://blog.devgenius.io/docker-security-securing-docker-daemon-using-tls-5234b4782047
 
 
-## 2.	Podman an Alternative to Docker
-
-https://medium.com/@hurrim38/introduction-to-podman-an-alternative-to-docker-4fb16777516d
-
-# Links to learning resources:
-1.	https://www.docker.com/
-2.	https://kubernetes.io/
-4. https://kyverno.io/docs/
-5. https://podman.io/
-6. https://docs.sigstore.dev/cosign/overview/
-
+# Links to Learning Resources
+1.https://kubernetes.io/docs/home/
+2.https://www.docker.com/blog/
+3.https://kyverno.io/docs/
+4.https://docs.sigstore.dev/cosign/overview/
+5.https://podman.io/
+6.https://linkerd.io
+7.https://docs.sigstore.dev/cosign/overview/
+8.https://kubernetes.io/docs/concepts/services-networking/ingress/
+9.https://www.youtube.com/@CloudNativeIslamabad
+10.https://www.youtube.com/@BretFisher
+11.https://www.youtube.com/@TechWorldwithNana 
 
