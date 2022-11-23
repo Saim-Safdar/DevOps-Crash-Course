@@ -42,6 +42,45 @@ I have written two blogs as of the writing of this commit. These can be found at
    
    Hashnode Link: https://cloudnativeislamabad.hashnode.dev/understanding-docker-multi-stage-build
 
+
+# Ahmad Tahir Chaudhry:
+Twitter:  https://twitter.com/AhmadTC
+
+# What I learned
+During the Devops course I learned in depth:
+
+1. Containers
+
+2. Issues in Virtual Machines
+
+3. Docker and how to use it
+
+4. Docker Alternatives (Podman, Yacht etc)
+
+5. Signing Container Images using Cosign
+
+6. Kubernetes Clusters
+
+7. Various Kubernetes distributions 
+
+8. Kyverno Policies and Rules
+
+# Blogs I have written
+I have written two blogs as of the writing of this commit. These can be found at medium.com 
+
+## 1. YACHT INTERACTIVE DASHBOARD
+
+A graphical interface for managing docker containers
+   
+   Medium Link:  https://medium.com/@ahmadtc17/yacht-interactive-dashboard-a-graphical-interface-for-managing-docker-containers-eabad789d25b
+   
+## 2. UNDERSTANDING STATIC PODS IN KUBERNETES
+Static Pods in Kubernetes and How to Create Them, why they are used
+   
+   Medium Link:  https://medium.com/@ahmadtc17/static-pods-in-kubernetes-and-how-to-create-them-90c0a3bca60c
+  
+
+
 # Links to Learning Resources
 The best place for learning in the field of DevOps is the official Documentation of the software being used
 1. https://docs.docker.com/
