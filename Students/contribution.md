@@ -633,6 +633,34 @@ https://medium.com/@ghasmir/kubernetes-k8s-explained-in-a-nutshell-fb6b64f62227
 
 - https://www.youtube.com/@CloudNativeIslamabad
 
+# Awab Amjad
+Linkedin: https://www.linkedin.com/in/awab-amjad-075b26245
+
+# What I learned:
+1) Docker
+2) Kubernetes
+3) Kyverno
+4) Podman
+5) How to migrate from one cluster to another
+6) How to contribute to open source projects
+7) How to deploy entire blockchain on kubernetes cluster
+8) Cosign
+9) Need of policy engines
+
+# My Blogs:
+1) Hyperledger Fabric 2.X — First Practical Blockchain
+https://medium.com/@awabamjid/hyperledger-fabric-2-x-first-practical-blockchain-874e0a506ca0
+
+2) Kubernetes configuration file: Declarative management of kubernetes object using configuration file
+https://medium.com/@awabamjid/kubernetes-configuration-file-declarative-management-of-kubernetes-object-using-configuration-file-5c34207271f6
+
+# Links to learning resources:
+1) https://www.docker.com/
+2) https://kubernetes.io/
+3) https://podman.io/
+4) https://docs.sigstore.dev/cosign/overview/
+5) https://kyverno.io/docs/
+
 
 
 
