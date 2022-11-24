@@ -692,6 +692,20 @@ Twitter : https://twitter.com/SaiH0s
 3) https://kubernetes.io/docs
 4) https://kyverno.io/docs/
 
+# Faraz Ud Din:
+Linkedin: https://www.linkedin.com/in/farazi180453/
+
+# Blogs I have written
+I have written two blogs on GitLab DevOps Platform.
+
+## 1. Let’s do DevOps with GitLab — an intro to GitLab
+   
+   Medium Link:   https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-an-intro-to-gitlab-85c582c71ac9
+
+## 2. Let’s do DevOps with GitLab — A hands-on approach
+   
+   Medium Link:  https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-a-hands-on-approach-7183492d8e02
+
 Course Instructor : Saim Safdar
 
 
