@@ -591,3 +591,48 @@ https://blog.devgenius.io/docker-security-securing-docker-daemon-using-tls-5234b
 - https://www.youtube.com/@BretFisher
 
 - https://www.youtube.com/@TechWorldwithNana  
+
+
+# Ghasmir Ahmad:
+Linkedin: https://www.linkedin.com/in/ghasmir/
+
+Twitter: https://twitter.com/ghasmir
+
+# What I learned
+- How things were working with VM's before container technology
+- How & why Containers became need of developers
+- Intro to containerization w/ Docker
+- Working with Docker
+- Working with other alternative containerization tools like Podman, Kyverno 
+- Container Orchestration default tool Kubernetes
+- Architecting with Kubernetes
+- Service Mesh (Istio)
+- Open Source contribution
+- Blogs writing
+
+# My Blogs:
+## 1.	Difference between an App & DApp
+
+https://medium.com/@ghasmir/what-is-this-new-d-before-apps-does-this-d-really-make-any-difference-99869db29e88
+
+
+## 2.	Kubernetes in a nutshell
+
+https://medium.com/@ghasmir/kubernetes-k8s-explained-in-a-nutshell-fb6b64f62227
+
+# Links to learning resources:
+- https://kubernetes.io/docs/home/
+
+- https://www.docker.com/blog/
+
+- https://kyverno.io/docs/
+
+- https://docs.sigstore.dev/cosign/overview/
+
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+- https://www.youtube.com/@CloudNativeIslamabad
+
+
+
+
