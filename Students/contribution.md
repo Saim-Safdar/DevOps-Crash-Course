@@ -662,5 +662,34 @@ https://medium.com/@awabamjid/kubernetes-configuration-file-declarative-manageme
 5) https://kyverno.io/docs/
 
 
+## Alamdar Hussain
+
+LinkedIn : https://www.linkedin.com/in/saral-hossain?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEVAt9KMeS3iXvPigKmvfrQ%3D%3D
+
+# Blog I have written :
+1) Virtual Machine vs Container? what is right for your business?
+    Medium Link : https://medium.com/@alamdar.hussain0007/virtual-machine-be4434bc7243
+2) GitOps with Kubernetes 
+   Medium Link : https://medium.com/@alamdar.hussain0007/gitops-with-kubernetes-f0912b644925
+
+# What I have learned In DevOps-Crash-Course
+
+1) Basics of Docker (including architecture of Docker)
+2) Signing Container (Docker) Images (Cosign)
+3) How to use Docker and Git.
+4) Docker Alternatives (Podman, Kyverno, to name a few)
+5) Basics of Kubernetes
+6) Different versions of Kubernetes such as k3s, k8s etc.
+7) Difference between Local(K3's,K8's) and Cloud(GKE,AKS,EKS) clusters
+8) Gitops and how it works(flux , argo ci/cd etc)
+9) How the open source community works and how I can contribute".
+
+# Learning Resourse :
+1) Best sourse of learning for me as a student is discord server (https://discord.gg/R36Y2wBM)
+2) https://docs.docker.com/
+3) https://kubernetes.io/docs
+4) https://kyverno.io/docs/
+
+Course Instructor : Saim Safdar
 
 
