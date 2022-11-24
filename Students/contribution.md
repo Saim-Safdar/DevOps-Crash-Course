@@ -384,4 +384,55 @@ https://medium.com/@hurrim38/introduction-to-podman-an-alternative-to-docker-4fb
 5. https://podman.io/
 6. https://docs.sigstore.dev/cosign/overview/
 
+#Majid Ahmad Khan
 
+Linkedin: https://www.linkedin.com/in/majid-a-463750a1
+Twitter: https://twitter.com/Majid_AhmedML
+
+#What I learned in the course of DevOps
+
+1. Docker architecture
+
+2. Usage of Docker
+
+3. Why containers are better than virtual machine
+
+4. Docker Alternatives (Podman, Builah)
+
+5. Signing Container (Docker) Images (Cosign)
+
+6. Basics of Kubernetes
+
+7. Kubernetes orchestration on a local machine.
+
+8. Difference between Local(K3's,K8's) and Cloud(GKE,AKS,EKS) clusters
+
+9. Service Mesh (istio etc)
+
+10. How the open source community works and how I can contribute.
+
+
+#Blogs I have written
+
+I have written two blogs as of the writing of this commit. These can be found at medium.com. 
+
+1. Configuring a NodeJS application on Docker
+Medium Link: https://medium.com/@majidahmadkhan/configuring-a-nodejs-application-on-docker-df707ee77091
+
+2. Buildah: An alternative to Docker
+Medium Link: https://medium.com/@majidahmadkhan/buildah-an-alternative-to-docker-3c2f8664520d
+
+
+#Links to Learning Resources
+
+The best place for learning in the field of DevOps is the official Documentation of the software being used
+
+https://docs.docker.com/
+
+https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+
+https://www.aquasec.com/cloud-native-academy/container-platforms/containerd/
+
+https://kyverno.io/docs/
+
+https://docs.sigstore.dev/cosign/overview/
