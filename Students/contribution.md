@@ -384,12 +384,12 @@ https://medium.com/@hurrim38/introduction-to-podman-an-alternative-to-docker-4fb
 5. https://podman.io/
 6. https://docs.sigstore.dev/cosign/overview/
 
-#Majid Ahmad Khan
+# Majid Ahmad Khan
 
 Linkedin: https://www.linkedin.com/in/majid-a-463750a1
 Twitter: https://twitter.com/Majid_AhmedML
 
-#What I learned in the course of DevOps
+# What I learned in the course of DevOps
 
 1. Docker architecture
 
@@ -412,7 +412,7 @@ Twitter: https://twitter.com/Majid_AhmedML
 10. How the open source community works and how I can contribute.
 
 
-#Blogs I have written
+# Blogs I have written
 
 I have written two blogs as of the writing of this commit. These can be found at medium.com. 
 
@@ -423,7 +423,7 @@ Medium Link: https://medium.com/@majidahmadkhan/configuring-a-nodejs-application
 Medium Link: https://medium.com/@majidahmadkhan/buildah-an-alternative-to-docker-3c2f8664520d
 
 
-#Links to Learning Resources
+# Links to Learning Resources
 
 The best place for learning in the field of DevOps is the official Documentation of the software being used
 
