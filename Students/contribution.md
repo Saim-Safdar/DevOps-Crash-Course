@@ -692,8 +692,8 @@ Twitter : https://twitter.com/SaiH0s
 3) https://kubernetes.io/docs
 4) https://kyverno.io/docs/
 
-# Faraz Ud Din:
-Linkedin: https://www.linkedin.com/in/farazi180453/
+# Jalal Ud Din:
+Linkedin: https://www.linkedin.com/in/hammasjalal/
 
 # Blogs I have written
 I have written two blogs on GitLab DevOps Platform.
