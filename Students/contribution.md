@@ -148,6 +148,39 @@ The best place for learning in the field of DevOps is the official Documentation
 4. https://kyverno.io/docs/
 5. https://docs.sigstore.dev/cosign/overview/
 
+# Arsalan:
+Linkedin: https://www.linkedin.com/in/arsalan-ali-94aa711b2/
+
+Twitter: https://twitter.com/Arsalan47149946
+
+# What I learned
+1.	Docker 
+2. Podman
+3.	Project workflow with Docker
+4.	Kyverno 
+5.	Podman 
+6.	Buildah
+7.	Cosign
+8.	Kubernetes
+9.	Velero
+10. Open Source contribution
+11. Service Mesh
+12. Istio
+
+# My Blogs:
+## 1.	Bare Metal server
+
+https://medium.com/@Arsalan915/the-baremetal-server-b9763f2f0326
+
+
+# Links to Learning Resources
+1.	https://www.docker.com/
+2.	https://kubernetes.io/
+3. https://phoenixnap.com/blog/what-is-bare-metal-server
+4. https://www.youtube.com/@CloudNativeIslamabad
+
+
+
 # Quassain Raza:
 Linkedin:https://www.linkedin.com/in/quassain-raza/
 
