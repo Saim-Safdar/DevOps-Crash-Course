@@ -664,8 +664,10 @@ https://medium.com/@awabamjid/kubernetes-configuration-file-declarative-manageme
 
 ## Alamdar Hussain
 
-LinkedIn : https://www.linkedin.com/in/saral-hossain?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEVAt9KMeS3iXvPigKmvfrQ%3D%3D
+LinkedIn : https://www.linkedin.com/in/saral-hossain
+
 Twitter : https://twitter.com/SaiH0s
+
 # Blog I have written :
 1) Virtual Machine vs Container? what is right for your business?
     Medium Link : https://medium.com/@alamdar.hussain0007/virtual-machine-be4434bc7243
