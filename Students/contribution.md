@@ -521,3 +521,73 @@ https://kubernetes.io/docs
 https://kyverno.io/docs/
 
 https://docs.sigstore.dev/cosign/overview/
+
+# Abdullah:
+Linkedin: https://www.linkedin.com/in/abdullah-siddique-541195242/
+
+Twitter: https://twitter.com/010_abdullah_
+
+## What I learned
+- Docker : how to build container, images, write dockerfile, multistage dockerfile, docker-compose
+
+- Docker Alternativer (Kyverno and Podman)
+
+- Kubernetes, Kubernetes Basics, Different versions of Kubernetes such as k3s, k8s etc, GKE, AKS, EKS
+   
+- Signing Container Images using Cosign
+
+- Kaniko and Buildah
+
+- Docker Security and how to secure container images
+
+- How blog writing can bring me to the spot light and help me land better career oppertunities 
+
+- How to open source contributions, starting from the bottom and climing the ladder
+
+- Importance of sharing my learnings on socail media platforms and communities 
+
+- Software supply chain security (Chainguard)
+
+- Service Mesh (Istio)
+
+
+## My Blogs:
+
+### 1. How to Dockerize you Angular Application.
+
+In this blog I generically discuss how to containerize a basic python application
+https://blog.devgenius.io/how-to-containerize-python-application-with-docker-ce930b192c68
+
+### 2. Docker security: Risks and Best Practices.
+
+In this blog I dicuss all the threats and security risks faced while using Docker and some precautinary steps that we can take to secure docker.
+https://blog.devgenius.io/docker-security-risks-and-best-practices-4f94bea451a5
+
+### 3. Docker Security : Securing Docker Daemon using TLS.
+
+In this blog I discuss how to secure docker daemon using TLS security certificate. I go in depth as how to create public private keys, generate certificate and apply on docker.
+https://blog.devgenius.io/docker-security-securing-docker-daemon-using-tls-5234b4782047
+
+
+# Links to Learning Resources
+- https://kubernetes.io/docs/home/
+
+- https://www.docker.com/blog/
+
+- https://kyverno.io/docs/
+
+- https://docs.sigstore.dev/cosign/overview/
+
+- https://podman.io/
+
+- https://linkerd.io
+
+- https://docs.sigstore.dev/cosign/overview/
+
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+- https://www.youtube.com/@CloudNativeIslamabad
+
+- https://www.youtube.com/@BretFisher
+
+- https://www.youtube.com/@TechWorldwithNana  
