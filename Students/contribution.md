@@ -697,6 +697,7 @@ Twitter : https://twitter.com/SaiH0s
 4) https://kyverno.io/docs/
 
 
+
 # Abubakar Tarar:
 Linkedin: https://www.linkedin.com/in/abubakar-tarar-844820227
 
@@ -733,7 +734,18 @@ https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
 6.	https://kubernetes.io/
 7.	https://kubernetes.io/docs/concepts/services-networking/ingress/
 
+# Jalal Ud Din:
+Linkedin: https://www.linkedin.com/in/hammasjalal/
 
-Course Instructor : Saim Safdar
+# Blogs I have written
+I have written two blogs on GitLab DevOps Platform.
+
+## 1. Let’s do DevOps with GitLab — an intro to GitLab
+   
+   Medium Link:   https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-an-intro-to-gitlab-85c582c71ac9
+
+## 2. Let’s do DevOps with GitLab — A hands-on approach
+   
+   Medium Link:  https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-a-hands-on-approach-7183492d8e02
 
 
