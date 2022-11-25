@@ -748,4 +748,32 @@ I have written two blogs on GitLab DevOps Platform.
    
    Medium Link:  https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-a-hands-on-approach-7183492d8e02
 
+## Abdul Aleem
+
+LinkedIn : https://www.linkedin.com/in/abdul-aleem-2a8a7617a/
+
+Twitter : https://twitter.com/AbdulAl18373792
+
+# Blog I have written :
+1) Github for beginners
+    Medium Link : https://medium.com/@abdulaleemzafar515/github-for-beginners-2de4159b3d9b
+2) Github Actions 
+   Medium Link : https://medium.com/@abdulaleemzafar515/github-actions-10172f4b3b19
+
+# What I have learned In DevOps-Crash-Course
+
+1) Docker
+2) Kubernetes
+3) Kyverno
+4) Github Actions
+5) Service Mesh(Istio)
+7) What is CI/CD pipeline?
+8) Contribution to open source project
+
+# Learning Resourse :
+1) https://docs.docker.com/
+2) https://kubernetes.io/docs
+3) https://kyverno.io/docs/
+4) https://docs.github.com/en/actions
+5) https://istio.io/latest/about/service-mesh/
 
