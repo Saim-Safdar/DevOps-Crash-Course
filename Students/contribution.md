@@ -172,13 +172,17 @@ Twitter: https://twitter.com/Arsalan47149946
 
 https://medium.com/@Arsalan915/the-baremetal-server-b9763f2f0326
 
+## 2.	Kubernetes on Bare Metal
+
+https://medium.com/@Arsalan915/kubernetes-on-bare-metal-ad5f32632204
+
 
 # Links to Learning Resources
 1.	https://www.docker.com/
 2.	https://kubernetes.io/
 3. https://phoenixnap.com/blog/what-is-bare-metal-server
 4. https://www.youtube.com/@CloudNativeIslamabad
-
+5. https://www.datacenters.com/news/a-quick-guide-to-installing-kubernetes-on-bare-metal
 
 
 # Quassain Raza:
