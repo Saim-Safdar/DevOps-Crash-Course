@@ -696,6 +696,44 @@ Twitter : https://twitter.com/SaiH0s
 3) https://kubernetes.io/docs
 4) https://kyverno.io/docs/
 
+
+# Abubakar Tarar:
+Linkedin: https://www.linkedin.com/in/abubakar-tarar-844820227
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+
+1.	Docker
+2.	Cosign
+3.	Kubernetes
+4.	Ingress
+5.	Podman
+6.	SBOM
+7.	GKE, AKS, k3s, minikube, and KIND
+8.	Servce mesh( Istio, Linkerd)
+
+# My Blogs:
+## 1.	Flutter Vs Java: Which is best and the future of App Development?
+In this blog, i discussed what is the difference between java and flutter and which is better.
+
+https://medium.com/@hab7tarar/flutter-vs-java-which-is-best-and-the-future-of-app-development-4b0b85359dbe
+
+
+## 2.	Introduction to minikube
+In this blog, i discussed what is minikube and how can we install it.
+
+https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
+
+# Links to learning resources:
+1.	https://istio.io/
+2.	https://docs.sigstore.dev/cosign/overview/
+3.	https://podman.io/
+4.	https://linkerd.io
+5.	https://www.docker.com/
+6.	https://kubernetes.io/
+7.	https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+
 Course Instructor : Saim Safdar
 
 
