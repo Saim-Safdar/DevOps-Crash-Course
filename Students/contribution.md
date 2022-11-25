@@ -172,13 +172,17 @@ Twitter: https://twitter.com/Arsalan47149946
 
 https://medium.com/@Arsalan915/the-baremetal-server-b9763f2f0326
 
+## 2.	Kubernetes on Bare Metal
+
+https://medium.com/@Arsalan915/kubernetes-on-bare-metal-ad5f32632204
+
 
 # Links to Learning Resources
 1.	https://www.docker.com/
 2.	https://kubernetes.io/
 3. https://phoenixnap.com/blog/what-is-bare-metal-server
 4. https://www.youtube.com/@CloudNativeIslamabad
-
+5. https://www.datacenters.com/news/a-quick-guide-to-installing-kubernetes-on-bare-metal
 
 
 # Quassain Raza:
@@ -692,6 +696,44 @@ Twitter : https://twitter.com/SaiH0s
 3) https://kubernetes.io/docs
 4) https://kyverno.io/docs/
 
+
+
+# Abubakar Tarar:
+Linkedin: https://www.linkedin.com/in/abubakar-tarar-844820227
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+
+1.	Docker
+2.	Cosign
+3.	Kubernetes
+4.	Ingress
+5.	Podman
+6.	SBOM
+7.	GKE, AKS, k3s, minikube, and KIND
+8.	Servce mesh( Istio, Linkerd)
+
+# My Blogs:
+## 1.	Flutter Vs Java: Which is best and the future of App Development?
+In this blog, i discussed what is the difference between java and flutter and which is better.
+
+https://medium.com/@hab7tarar/flutter-vs-java-which-is-best-and-the-future-of-app-development-4b0b85359dbe
+
+
+## 2.	Introduction to minikube
+In this blog, i discussed what is minikube and how can we install it.
+
+https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
+
+# Links to learning resources:
+1.	https://istio.io/
+2.	https://docs.sigstore.dev/cosign/overview/
+3.	https://podman.io/
+4.	https://linkerd.io
+5.	https://www.docker.com/
+6.	https://kubernetes.io/
+7.	https://kubernetes.io/docs/concepts/services-networking/ingress/
+
 # Jalal Ud Din:
 Linkedin: https://www.linkedin.com/in/hammasjalal/
 
@@ -705,7 +747,5 @@ I have written two blogs on GitLab DevOps Platform.
 ## 2. Let’s do DevOps with GitLab — A hands-on approach
    
    Medium Link:  https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-a-hands-on-approach-7183492d8e02
-
-Course Instructor : Saim Safdar
 
 
