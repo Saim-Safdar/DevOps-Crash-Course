@@ -59,7 +59,9 @@ In this I examined Linkerd and Istio tools and evaluate them against various sta
 
 ```python
 
-future = ['Implement Techniques Learnt in DevOps in FYP', 'MLOPs', 'Deployment of FYP on Cloud', 'Open Source Contribution', 'DevOps Seminar in FAST']
+future = ['Implement Techniques Learnt in DevOps in FYP', 
+'MLOPs', 'Deployment of FYP on Cloud', 'Open Source Contribution',
+'DevOps Seminar in FAST']
 
 for i in future:
     next_semester(i) # To be done in next semester :)
