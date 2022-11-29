@@ -782,3 +782,33 @@ Twitter : https://twitter.com/AbdulAl18373792
 4) https://docs.github.com/en/actions
 5) https://istio.io/latest/about/service-mesh/
 
+# Talha Tahir:
+Linkedin: https://www.linkedin.com/in/talha-tahir-b236b71b3/
+Twitter: https://twitter.com/talhatahir598
+
+## What I learned
+Following are the topics I've learned about in DevOps course:
+
+1.	Issues with VM
+2.	Docker
+3.	Cosign
+4.	Kubernetes
+5.	Ingress
+6.	Kyverno
+7.	Kaniko
+8.	Podman
+9.	SBOM
+10. GKE, AKS, k3s, minikube, and KIND
+11. Servce mesh( Istio, Linkerd)
+12. True value of contributing to Open Source
+
+## My Blogs:
+### 1.	Kaniko over Docker-in-Docker in Kubernetes
+In this blog, I've discussed the issues with Docker-in-Docker in kubernetes cluster and how Kaniko solve those issues.
+
+https://medium.com/@talhatahir598/kaniko-over-docker-in-docker-in-kubernetes-1b569c066a7
+
+### 2.	Build Container Images with Kaniko in Kubernetes
+In this blog, I've prepared a hands-on tutorial of building container images with Kaniko in kubenetes cluster.
+
+https://medium.com/@talhatahir598/build-container-images-with-kaniko-in-kubernetes-b681c83fc507
