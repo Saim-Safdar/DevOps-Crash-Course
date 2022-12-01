@@ -181,6 +181,10 @@ https://medium.com/@Arsalan915/the-baremetal-server-b9763f2f0326
 
 https://medium.com/@Arsalan915/kubernetes-on-bare-metal-ad5f32632204
 
+## 3. Monitoring the Applications using Grafana
+
+https://medium.com/@Arsalan915/monitoring-the-applications-using-grafana-7c28e70ae3cd
+
 
 # Links to Learning Resources
 1.	https://www.docker.com/
@@ -188,7 +192,7 @@ https://medium.com/@Arsalan915/kubernetes-on-bare-metal-ad5f32632204
 3. https://phoenixnap.com/blog/what-is-bare-metal-server
 4. https://www.youtube.com/@CloudNativeIslamabad
 5. https://www.datacenters.com/news/a-quick-guide-to-installing-kubernetes-on-bare-metal
-
+6. https://grafana.com/
 
 # Quassain Raza:
 Linkedin:https://www.linkedin.com/in/quassain-raza/
