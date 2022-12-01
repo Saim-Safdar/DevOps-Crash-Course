@@ -857,3 +857,33 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Sikandar Zaman:
+Linkedin: https://www.linkedin.com/in/sikandar-zaman-virk-75014b177
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+
+1.	Docker
+2.	Cosign
+3.	Kubernetes
+4.	Ingress
+5.	Podman
+6.	SBOM
+7.	GKE, AKS, k3s, minikube, and KIND
+8.	Servce mesh( Istio, Linkerd)
+
+# My Blogs:
+## 1.	docker compose?
+In this blog, i have discussed what what is docker compose and its benefits.
+
+https://medium.com/@i180748/docker-compose-4da5d9fce95
+
+
+## 2.	Introduction to minikube
+In this blog, i have discussed the latest versions of docker compose.
+
+https://medium.com/@i180748/docker-compose-vs-docker-compose-5b5a5531cd19
+
+
+
+
