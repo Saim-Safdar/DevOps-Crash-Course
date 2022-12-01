@@ -65,6 +65,45 @@ What I learned in the course of DevOps were the topics
 
 8. Why there was a need for Kubernetes when Docker and other such applications existed
 
+# M. Hasssan Akbar
+<h1 align=center> Hi, I am Hassan Akbar! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> <br>
+Do reach out if you want to collaborate with me on my socials:
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhassanakbar/">
+    <img src="https://img.shields.io/badge/M. Hassan Akbar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="https://twitter.com/aiasxr">
+    <img src="https://img.shields.io/badge/aiasxr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:mhassanakbaar@gmail.com">
+    <img src="https://img.shields.io/badge/mhassanakbaar@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
+  </a><span>&nbsp;</span>
+  <a  href="https://medium.com/@mhassanakbaar">
+    <img src="https://img.shields.io/badge/@mhassanakbaar-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://github.com/aiasxr">
+   <img src="https://img.shields.io/badge/Aiasxr-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+## My Blogs:
+- [Podman, a Docker Alternative](https://medium.com/@mhassanakbaar/podman-a-docker-alternative-fd4d504ebf36)
+- [Buildah, a Container Building Tool](https://medium.com/@mhassanakbaar/buildah-a-container-building-tool-bb8accbd7624)
+- [Helm: The Kubernetes Package Manager](https://medium.com/@mhassanakbaar/helm-the-kubernetes-package-manager-d218f0175115)
+
+## Things that I have learned over the span of course:
+- Docker
+- Podman
+- Container Ochestration
+- Kubernetes Architecture
+- Kubernetes Deployment
+- Minikube, K3s, Google Kubernetes Engine
+- GitOps
+- Helm Charts
+- Service Mesh
+
 # Zohaib Bashir:
 Linkedin: https://www.linkedin.com/in/zohaibbashir/
 
