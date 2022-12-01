@@ -1,2 +1,2 @@
-Blog 2:
-https://medium.com/@owaisnasir433/kubernetes-pods-and-how-they-are-created-c6f6e15ab87d
+Blog 3:
+https://medium.com/@owaisnasir433/kubernetes-ingress-vs-external-services-c1b61acb9c78
