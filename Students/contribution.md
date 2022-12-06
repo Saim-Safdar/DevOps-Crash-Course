@@ -739,6 +739,26 @@ https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
 6.	https://kubernetes.io/
 7.	https://kubernetes.io/docs/concepts/services-networking/ingress/
 
+# Sahibzada Hafeez
+Linkedin:
+Medium:
+
+## Things I learned
+1. Containsers and Docker
+2. Virtual Machines
+3. Git and Github
+4. Container Orchestration with Kubernetes
+5. Kyverno Policy Engine for Kubernetes
+6. SBOM
+7. Cosign
+8. Istio - Service Mesh
+
+## Blogs I wrote
+[1. Understanding Docker](https://medium.com/@sahibzadahafeez/understanding-docker-a0c30b817049)
+[2. Into to Kubernetes](https://medium.com/@sahibzadahafeez/test-b0b0d31ff58c)
+[3. Kyverno Policy Engine](https://medium.com/@sahibzadahafeez/kyverno-policy-engine-75de86a992dc)
+
+
 # Jalal Ud Din:
 Linkedin: https://www.linkedin.com/in/hammasjalal/
 
