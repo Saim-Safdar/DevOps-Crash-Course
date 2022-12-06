@@ -740,8 +740,8 @@ https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
 7.	https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 # Sahibzada Hafeez
-Linkedin:
-Medium:
+Twitter: https://twitter.com/hafeezwith2ees
+Medium: https://medium.com/@sahibzadahafeez
 
 ## Things I learned
 1. Containsers and Docker
