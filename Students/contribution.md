@@ -740,8 +740,8 @@ https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
 7.	https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 # Sahibzada Hafeez
-Twitter: https://twitter.com/hafeezwith2ees \newline
-Medium: https://medium.com/@sahibzadahafeez \newline
+#### Twitter: https://twitter.com/hafeezwith2ees 
+#### Medium: https://medium.com/@sahibzadahafeez 
 
 ## Things I learned
 1. Containsers and Docker
@@ -754,9 +754,9 @@ Medium: https://medium.com/@sahibzadahafeez \newline
 8. Istio - Service Mesh
 
 ## Blogs I wrote
-[1. Understanding Docker](https://medium.com/@sahibzadahafeez/understanding-docker-a0c30b817049) \newline
-[2. Into to Kubernetes](https://medium.com/@sahibzadahafeez/test-b0b0d31ff58c) \newline
-[3. Kyverno Policy Engine](https://medium.com/@sahibzadahafeez/kyverno-policy-engine-75de86a992dc) \newline
+### [1. Understanding Docker](https://medium.com/@sahibzadahafeez/understanding-docker-a0c30b817049) 
+### [2. Into to Kubernetes](https://medium.com/@sahibzadahafeez/test-b0b0d31ff58c) 
+### [3. Kyverno Policy Engine](https://medium.com/@sahibzadahafeez/kyverno-policy-engine-75de86a992dc) 
 
 
 # Jalal Ud Din:
