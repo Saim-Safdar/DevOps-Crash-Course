@@ -382,6 +382,9 @@ https://medium.com/@saad.tanveer11400/dockerize-you-angular-application-f2c61fc9
 ### 2. How Kasm provides you with Browser Isolation.
 https://medium.com/@saad.tanveer11400/browser-isolation-using-kasm-d15b91f7b765
 
+### 3. Service-Mesh architecture and how it works.
+https://medium.com/@saad.tanveer11400/service-mesh-f170026a75fd
+
 
 # Links to Learning Resources
 * https://kubernetes.io/docs/home/
