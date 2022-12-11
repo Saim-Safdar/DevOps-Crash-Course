@@ -856,4 +856,34 @@ for i in future:
 
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
+# Hanzala Ahmed Khan
+--------------------
+## What I learned:
+With rapid advancement of technology and idea of Open Source, people are getting more interested in DevOps. It has quite good value in world of Open Source. Methioned below are topics, which I learned in the course of DevOps, taught by Mr. Saim Safdar.
+- Doker Engine
+- Docker Hub
+- Containerd
+- Contariner Runtime
+- Kubernetes (K8s)
+- K8s Gateway API
+- Lightweight Kubernetes (K3s)
+- Kaniko
+- Kyverno
+- Buildah
+- Service Mesh
+- GitOps
+- Prometheus
+
+## My Blogs
+We were encouraged by Sir Saim, to learn and share our knowledge with rest of the world via blog writing. Blog writing was most emphasizing and fun part of this course. Provided below are my blogs of topics related to DevOps.
+- ### [Docker's Infrastructure](https://medium.com/@HanzalaAhmed/dockers-infrastructure-3932aac5b54f)
+- ### [Lightweight Kubernetes:K3s](https://medium.com/@HanzalaAhmed/lightweight-kubernetes-k3s-1a2dc5904d2c)
+- ### [Kubernetes Gateway API](https://medium.com/@HanzalaAhmed/kubernetes-gateway-api-347e795c86ee)
+
+## Credits
+Thank You Sir Saim Safdar!, for teaching us this course. Your way of teaching was not only professional, but also, was unique. I learned great things in this course and also got to know about the current trends in technology. My most favourite part of this course was blog writing.
+
+## Find me on
+- [Medium](https://medium.com/@HanzalaAhmed)
+- [Linkedin](https://www.linkedin.com/in/hanzala-ahmed-03376224b/)
 
