@@ -703,13 +703,18 @@ Twitter : https://twitter.com/SaiH0s
 
 # Abdul Musawir:
 LinkedIn:https://www.linkedin.com/in/abdul-musawir-11027a247/
+
 Portfolio:https://abdulmusawir.netlify.app/
 # Blogs I have written:  
 I have written two blogs, which can be found on Medium:
+
 1. # Serverless Architectures in DevOps: A Paradigm Shift 
-Medium Link:https://medium.com/@abdulmusawir3545/serverless-architectures-in-devops-a-paradigm-shift-06c60be55070
+
+   Medium Link:https://medium.com/@abdulmusawir3545/serverless-architectures-in-devops-a-paradigm-shift-06c60be55070
+
 2.**Try Hack Me: RootMe** 
-Medium Link:https://medium.com/@abdulmusawir3545/try-hack-me-rootme-e2b8d93da772
+
+   Medium Link:https://medium.com/@abdulmusawir3545/try-hack-me-rootme-e2b8d93da772
 
 # Abubakar Tarar:
 Linkedin: https://www.linkedin.com/in/abubakar-tarar-844820227
