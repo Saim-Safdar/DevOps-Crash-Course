@@ -917,7 +917,7 @@ Thank you Saim Safdar for the excellent course content for DevOps it has given m
 ### Socail Media Links
 
 [GitHub](https://github.com/FarazRashid)<br>
-[LinkedIn](https://www.linkedin.com/in/muhammad-faraz-rashid/)br>
+[LinkedIn](https://www.linkedin.com/in/muhammad-faraz-rashid/)<br>
 
 ## About Me
 
