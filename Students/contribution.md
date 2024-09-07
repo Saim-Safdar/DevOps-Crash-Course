@@ -857,3 +857,6 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+## Blog 1 Azmeer Sohail Khan (21i-2977)
+
+## [Podman vs Docker: Choosing the Right Container Tool for Your Needs](https://medium.com/@i212977/podman-vs-docker-choosing-the-right-container-tool-for-your-needs-218e610646ee)
