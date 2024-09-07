@@ -857,3 +857,6 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+## Hania Zahid 22i-1270
+
+## [How to run container on Bare-Metal?](https://medium.com/@i221270/how-to-run-container-on-bare-metal-8fe223fd62b1)
