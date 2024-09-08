@@ -13,3 +13,11 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+## Muhammad Talal Habshi (21i-2456)
+## https://www.linkedin.com/in/muhammad-talal-habshi-7b380328a/
+## https://medium.com/@talalhabshi03
+## https://github.com/Taloo123
+## Blog link
+## [Docker vs Virtual Machines: Key Differences and How Docker Runs Seamlessly on Your System] https://medium.com/@talalhabshi03/docker-vs-virtual-machines-key-differences-and-how-docker-runs-seamlessly-on-your-system-12b3ace1c609
+
+## "Discover how Docker’s lightweight containers outperform virtual machines by sharing the host OS kernel, making cross-platform development faster and more efficient!"
