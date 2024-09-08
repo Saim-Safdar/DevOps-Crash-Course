@@ -1,15 +1,9 @@
-# DevOps 22024 Students Contributions! 
+- Zain Saleem 21i-0389 Section-A
+- LinkedIn: https://www.linkedin.com/in/zain-saleem-b052a024a/
+- Medium Blog: https://medium.com/@zainsaleem022/dockerizing-a-pern-application-using-docker-compose-a60c596c3ba0
+- Github: https://github.com/zainsaleem022
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
-
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
-
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+Blog Summary: Blog is about dockerizing a multi-containered application built on PERN (postgres, express, react and node js) Stack and includes introduction of docker and docker compose and contains actual dockerfiles for
+frontend and backend containers and then a brief docker compose file for the whole application with defined services and their volumes, env variables and dependencies etc, and finally how to run that compose file
 
 
