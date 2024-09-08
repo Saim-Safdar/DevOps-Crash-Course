@@ -12,4 +12,18 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+# Zain Ul Abideen (21I-0747)
+ - Linkedin: https://www.linkedin.com/in/zainnisar/
+ - Personal Website: https://zainnisar.netlify.app/
+ - Medium profile: https://medium.com/@zainnsar
+ - Github profile: https://github.com/zainulabideen1122
 
+# My Blogs
+
+## A Beginner’s Guide to Docker Networking: Bridge, Host, and Overlay Networks
+
+## Link: https://medium.com/@zainnsar/a-beginners-guide-to-docker-networking-bridge-host-and-overlay-networks-edc6d50083f2
+
+Summary: In containerized applications, different services often run in separate containers. These containers need efficient networking for communication, data transfer, and scaling. Docker’s networking model simplifies the management and configuration of these connections, ensuring isolation, security, and flexibility.
+## Resources
+- https://docs.docker.com/engine/network/
