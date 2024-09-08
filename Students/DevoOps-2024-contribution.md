@@ -8,8 +8,14 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Medium Profile link
 - Github Profile link
 
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+
+## Abdul Musawir:
+LinkedIn: https://www.linkedin.com/in/abdul-musawir-11027a247/
+Blogs I have written:  
+I have written two blogs, which can be found on Medium:
+### 1.Serverless Architectures in DevOps: A Paradigm Shift 
+      Medium Link:https://medium.com/@abdulmusawir3545/serverless-architectures-in-devops-a-paradigm-shift-06c60be55070 
+## 2.Try Hack Me: RootMe  
+      Medium Link:https://medium.com/@abdulmusawir3545/try-hack-me-rootme-e2b8d93da772
 
 
