@@ -852,6 +852,19 @@ for i in future:
     next_semester(i) # To be done in next semester :)
 ```
 
+## Sania Mirza
+
+Roll Num: 21I-0764
+
+LinkedIn: https://www.linkedin.com/in/sania-mirza-601a812a8/
+
+## Blogs I have written
+
+Mastering GitOps
+medium link: https://medium.com/@mirzasania545/mastering-gitops-a-step-by-step-guide-to-automating-your-kubernetes-deployments-d508c4fecf55
+
+--------------------------------------
+
 ## Credits
 
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
