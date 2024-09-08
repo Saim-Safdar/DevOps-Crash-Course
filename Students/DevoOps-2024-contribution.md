@@ -13,4 +13,4 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
-## Good Luck writing incredible Blogs!
+
