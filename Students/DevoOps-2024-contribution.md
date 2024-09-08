@@ -13,3 +13,27 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+
+# Moaz Farrukh - 21I-0899
+- Linkedin: https://www.linkedin.com/in/moaz-farrukh/
+- Medium : https://medium.com/@moazfarrukh/
+- Github : https://github.com/moazfarrukh/
+
+### What I learned
+Following are the topics we discussed in DevOps course:
+1.	DevOps Fundamentals
+2.	Docker
+3.	Docker Compose
+4.	Containerization
+
+### My Blogs:
+#### 1.	Traditional vs. Docker: The Easiest Method for Setting Up a Local Minecraft Server
+In this blog, I discussed how excruciating it is to manually install a minecraft server on a linux system and how using docker this process can be made really easier and with docker compose it can be further refined and easily configuirable.
+
+https://medium.com/@moazfarrukh/traditional-vs-docker-the-easiest-method-for-setting-up-a-local-minecraft-server-8e06f0de5c43
+
+### Links to learning resources:
+1.	https://docs.docker.com/reference/cli/docker/compose/
+2.	https://docs.docker.com/reference/cli/docker/container/run/
+3.  https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-22-04
+4.  https://docker-minecraft-server.readthedocs.io/en/latest/configuration/server-properties
