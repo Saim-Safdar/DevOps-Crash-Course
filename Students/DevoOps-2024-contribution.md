@@ -11,7 +11,7 @@ This course introduces students to the key principles of DevOps, a set of practi
 ## List your Blog post links here.
 Blog:
 https://medium.com/@emanh9746/from-parsing-to-perfection-the-evolution-of-cv-parsing-and-the-future-of-automatic-cv-refactoring-33d40abdadd0
-The blog discusses how CV parsing streamlines recruitment but falls short due depending on keyword matching. It introduces automatic CV refactoring with GenAI as a solution to better align resumes with job descriptions, improving candidates' chances of success.
+The blog discusses how CV parsing streamlines recruitment but falls short due to depending on keyword matching. It introduces automatic CV refactoring with GenAI as a solution to better align resumes with job descriptions, improving candidates' chances of success.
 
  Learning Resources:
  https://info.daxtra.com/the-ultimate-guide-to-cv-resume-parsing
