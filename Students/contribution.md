@@ -857,3 +857,6 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# New Contribution(i212456_Muhammad Talal Habshi i212456)
+# "Docker vs Virtual Machines: Key Differences and How Docker Runs Seamlessly on Your System"
+# https://medium.com/@talalhabshi03/docker-vs-virtual-machines-key-differences-and-how-docker-runs-seamlessly-on-your-system-12b3ace1c609
