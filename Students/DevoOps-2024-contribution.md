@@ -12,7 +12,6 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
-
 # Zain Ul Abideen (21I-0747)
  - Linkedin: https://www.linkedin.com/in/zainnisar/
  - Personal Website: https://zainnisar.netlify.app/
