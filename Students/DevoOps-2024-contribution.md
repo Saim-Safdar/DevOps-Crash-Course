@@ -13,3 +13,15 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+
+# Abdullah Zahoor i21-2481
+Linkedin Profile : https://www.linkedin.com/in/abdullah-zahoor-436767239/ Meduim Profile : https://medium.com/@abdullahchx123 Github Profile : https://github.com/Abdullah-zahoor
+
+# Link of my blog
+https://medium.com/@abdullahchx123/from-zero-to-quantum-a-newcomers-guide-to-understanding-quantum-computing-basics-74c16cc6436f
+
+# Summary of my blog 
+My exploration of quantum computing revealed that it’s a practical technology rather than just sci-fi, leveraging qubits to perform complex calculations. Key concepts like superposition, entanglement, and interference enable quantum computers to solve problems more efficiently than classical ones. Understanding these principles highlights the transformative potential of quantum technology.
+
+# Learning Resources 
+Internet and LLMs
