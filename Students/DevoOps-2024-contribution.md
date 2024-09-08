@@ -12,4 +12,12 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+## Azmeer Sohail Khan (21i-2977)
+## https://www.linkedin.com/in/azmeer-sohail-3381b62bb/
+## https://medium.com/@i212977
+## https://github.com/AzmeerSohail
+## Blog link
+## [Podman vs Docker: Choosing the Right Container Tool for Your Needs](https://medium.com/@i212977/podman-vs-docker-choosing-the-right-container-tool-for-your-needs-218e610646ee)
+
+## This blog highlights the features and components of both docker and podman. Then mentions the differences between the two and which one should you choose. 
 
