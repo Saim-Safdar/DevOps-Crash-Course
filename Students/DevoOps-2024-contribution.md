@@ -1,15 +1,10 @@
-# DevOps 22024 Students Contributions! 
+### Ahmed Ali 201-0745
+- **Medium Profile Link:** [https://medium.com/@j200745/gitops-managing-infrastructure-with-git-11b8baf71afd](https://medium.com/@j200745/gitops-managing-infrastructure-with-git-11b8baf71afd)
+- **GitHub Profile Link:** [https://github.com/syedali010](https://github.com/syedali010)
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
+**Summary:**  
+My blog explains how GitOps helps automate infrastructure changes through Git. It improves collaboration, consistency, and ensures faster deployments.
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
-
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
-
-
+**Learning Resources:**
+- [Weaveworks GitOps Overview](https://www.weave.works/technologies/gitops/)
+- [Red Hat GitOps Guide](https://www.redhat.com/en/topics/devops/what-is-gitops)
