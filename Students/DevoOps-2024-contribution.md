@@ -13,3 +13,6 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+## Hania Zahid 22i1270 
+
+## [How to run a container on bare-metal?](https://medium.com/@i221270/how-to-run-container-on-bare-metal-8fe223fd62b1)
