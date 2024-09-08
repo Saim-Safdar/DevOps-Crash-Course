@@ -12,4 +12,16 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+## Hamza Rauf         21i-0604
+- LinkedIn: linkedin.com/in/hamza-rauf-mernprogrammer/
+- Medium: medium.com/@sh.hamzarauf
+- Git Hub: github.com/HamzaRauf610
 
+## Links to my Blogs
+### 1) https://medium.com/@sh.hamzarauf/handling-environment-variables-in-docker-compose-for-secure-and-flexible-configurations-5ce6a5bb0412
+This article explains securely handling Docker Compose environment variables using `.env` files, Docker Secrets, CI/CD, and best practices.
+### Learning Resources
+-  https://docs.docker.com/compose/environment-variables/set-environment-variables/?source=post_page-----5ce6a5bb0412--------------------------------
+- https://builtin.com/software-engineering-perspectives/docker-compose-environment-variables?source=post_page-----5ce6a5bb0412--------------------------------
+- https://docs.docker.com/compose/environment-variables/best-practices/?source=post_page-----5ce6a5bb0412--------------------------------
+- https://reintech.io/blog/managing-environment-variables-docker-compose-security?source=post_page-----5ce6a5bb0412--------------------------------
