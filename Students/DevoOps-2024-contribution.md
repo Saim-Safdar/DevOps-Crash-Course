@@ -13,3 +13,20 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+
+## Muhammad Shaheer Khan
+Roll Number: 21i-1358
+
+Linkedin: https://www.linkedin.com/in/shaheer-khan-380a912bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Github: https://github.com/Shaheer-Khan1
+Medium: https://medium.com/@khanshaheer6969
+
+## BLOG: Tech Monopolies: The Real Price of ‘Free’ Software
+
+# Summary: 
+"Free" software from tech giants often costs more than you think, as it involves extensive data collection and privacy trade-offs. This dominance stifles competition and limits innovation. Being aware of these hidden costs helps in making more informed tech choices.
+
+# Learning Resources:
+https://www.sport80.com/news/unveiling-the-true-cost-of-software
+https://www.forbes.com/sites/rajsabhlok/2013/07/18/open-source-software-the-hidden-cost-of-free/
+https://www.rti.com/blog/the-true-cost-of-open-source
