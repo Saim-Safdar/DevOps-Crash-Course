@@ -1,15 +1,18 @@
-# DevOps 22024 Students Contributions! 
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
+## Name and Roll number
+- Javaria Habib  21i-2485
+- LinkedIn: https://www.linkedin.com/in/javaria-habib-555297216/
+- Medium  :  https://medium.com/@javariahabib
+- Github  :  https://github.com/javahabib
 
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
+## Blog link: 
+https://medium.com/@javariahabib/kubernetes-architecture-understanding-pods-nodes-and-clusters-2dce395f7932
+
+- This blog covered the basics of Kubernetes architecture Clusters,Nodes and Podsdemonstrating how they work together to manage, scale and automate containerized applications effectively.
+
 - Mention learning Resources. 
+https://kubernetes.io/docs/concepts/architecture/
+https://www.youtube.com/watch?v=TlHvYWVUZyc
 
 
