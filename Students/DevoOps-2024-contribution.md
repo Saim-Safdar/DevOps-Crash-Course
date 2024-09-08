@@ -1,15 +1,18 @@
-# DevOps 22024 Students Contributions! 
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
+## Name and Roll No
+- Zaib Un Nisa 21i-0383
+- LinkedIn: https://www.linkedin.com/in/zaibunnisachd/
+- Medium Profile link: https://medium.com/@zaibunnisachd
+- Github Profile link: https://github.com/zaibunnisaq
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
+## List to Blog post links.
 
-## List your Blog post links here.
+https://medium.com/@zaibunnisachd/an-introduction-to-microservices-what-they-are-and-why-they-are-important-22b9c9aa8194
+
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
 
+My blog post compares monolithic and microservices architectures, highlighting their respective advantages and challenges in scalability and complexity. 
+
+- Mention learning Resources. 
+https://www.youtube.com/watch?v=rv4LlmLmVWk
 
