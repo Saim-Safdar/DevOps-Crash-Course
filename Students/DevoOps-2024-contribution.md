@@ -11,5 +11,18 @@ This course introduces students to the key principles of DevOps, a set of practi
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
+## Mishal Ahmed
+Roll Number: 21i-0471
 
+Linkedin: https://www.linkedin.com/in/mishal-ahmed-a58807258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Github: https://github.com/MishalAhmed6
+Medium: https://medium.com/@ahmedmishal636
 
+## BLOG: The Great Divide: Are Software Engineers Without AI/ML Skills Being Left Behind?
+
+# Summary: 
+AI and machine learning (ML) are becoming essential in modern software development, but traditional roles are still valuable. Engineers without AI/ML skills aren't obsolete, but understanding these technologies is increasingly important to stay competitive. Continuous learning in AI/ML can open new career paths and future-proof an engineer's career.
+
+# Learning Resources:
+https://oluwafemidiakhoa.medium.com/ai-talent-gold-rush-the-increasing-demand-for-machine-learning-skills-c5840d6bbcca
+https://gaper.io/tech-talent-shortage/
