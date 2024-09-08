@@ -10,6 +10,15 @@ This course introduces students to the key principles of DevOps, a set of practi
 
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+- Mention learning Resources.
+
+Ibrahim Saqib 21I-2512 Section-B
+
+LinkedIn: https://www.linkedin.com/in/ibrahim-saqib-62003427b/
+
+Github: https://github.com/ibrahimsqb
+
+Blog Link: https://medium.com/@ibrahimsaqib20/simplifying-development-with-containers-a-general-devops-workflow-bcd0f5156c22
+
 
 
