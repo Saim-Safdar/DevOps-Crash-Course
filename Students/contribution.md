@@ -5,6 +5,8 @@ Things students have learned from DevOps course, blogpost they have written, soc
 # Ahmad Tahir Chaudhry:
 Twitter:  https://twitter.com/AhmadTC
 Hashnode: https://ahmadchaudhry.hashnode.dev/
+# Saad Ahsan (21i-2965)
+[My WebAssembly Blog on Medium] https://medium.com/@ahsansaad010/a39f86f41ecd
 
 # What I learned
 During the Devops course I learned in depth:
