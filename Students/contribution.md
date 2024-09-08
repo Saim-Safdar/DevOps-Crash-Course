@@ -804,6 +804,13 @@ I have over two years of industry experience in technical fields ranging from da
 
 I am skilled in Machine Learning, Deep Learning, Automation, Data Analysis, and NLP. I have a passion for finding solutions to enable new possibilities.
 
+
+Ammar Bin Yasir 20I-0501 
+blog link: https://medium.com/@ammarbinyasir/why-choose-flask-lightweight-frame-work-for-web-development-c869a14c321a
+github link: https://github.com/AmmarBinYasir-ai
+linkedin profile: https://www.linkedin.com/in/ammar-bin-yasir-a687821ab/
+blog summary:
+My blog explains why flask frame work is an effient tool in terms of using for basic websites and structures.
 ## What I Learned
 Following are the topics that I learned in DevOps Course by Saim Safdar.
 - Containers
