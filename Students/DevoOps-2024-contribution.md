@@ -13,7 +13,11 @@
 https://medium.com/@zobianayer36 
 https://medium.com/@zobianayer36/dockers-security-edge-top-tactics-and-use-cases-4bfeddc9992a
 
-This blog highlights how Docker enhances security through real-world use cases like isolated testing environments, running security tools, and container segmentation. It discusses automating security in CI/CD pipelines, deploying honeypots, and container hardening to reduce attack surfaces. Despite challenges like kernel sharing and container breakout, Docker offers solutions such as strict configurations and advanced security tools.
+# contribute-update
+This blog highlights how Docker enhances security through real-world use cases like isolated testing environments, running security tools, 
+and container segmentation. It discusses automating security in CI/CD pipelines, deploying honeypots, and container hardening to reduce 
+attack surfaces. Despite challenges like kernel sharing and container breakout, Docker offers solutions such as strict configurations and 
+advanced security tools.
 
 References
 https://www.docker.com/blog/container-security-and-why-it-matters/
