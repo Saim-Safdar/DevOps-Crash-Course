@@ -1,27 +1,26 @@
-# DevOps 22024 Students Contributions! 
+# Talha Shahzad Butt
+# 21i-0540
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
+# What I learned
+During the Devops course I learned in depth:
 
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+1. Containers
 
-## Sanaullah Momin (21i-0614)
+2. Issues in Virtual Machines
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+3. Docker and how to use it
 
-## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+4. Docker Alternatives (Podman, Yacht etc)
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+5. Features of Podman.
 
-Learning resources: https://docs.docker.com/build/buildkit/
 
+# Blogs I have written
+I have written blog as of the writing of this commit. These can be found at medium.com 
+
+## 1. The New Horizon: Exploring Podman’s Container Evolution
+blog Link: https://medium.com/@i210540/the-new-horizon-exploring-podmans-container-evolution-639002d192e6
+
+
+A blog describing the basics about containerization, docker architecture, Docker vs Podman, Podman features and when to use which.
