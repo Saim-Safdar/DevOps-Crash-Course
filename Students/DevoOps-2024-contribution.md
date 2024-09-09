@@ -1,27 +1,26 @@
 # DevOps 22024 Students Contributions! 
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
+
 
 ## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
+- Osama Ali 
+  I21-0587
+  Section:B
 
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
 
 ## Sanaullah Momin (21i-0614)
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+LinkedIn: https://www.linkedin.com/in/osama-ali-a2949a241
+Medium: https://medium.com/@OsamaAli.
+Github: https://github.com/Osa1112222
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+ https://medium.com/@OsamaAli./docker-vs-virtual-machines-the-future-of-application-development-af9f801f0d3f
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+Docker containers provide a faster, more efficient alternative to traditional Virtual Machines (VMs) by sharing the host OS, using fewer resources, and starting up quickly. They’re easier to scale, more portable, and ideal for modern development. While VMs still have some uses, Docker’s flexibility and speed make it the go-to choice for most developers today.
 
-Learning resources: https://docs.docker.com/build/buildkit/
+
+Resources : https://www.freecodecamp.org/news/docker-vs-vm-key-differences-you-should-know/
+
+
 
