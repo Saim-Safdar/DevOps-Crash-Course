@@ -2,7 +2,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/mhuzaifa191/
 - Medium: https://medium.com/@m.huz4if4
-- Github: https://medium.com/@m.huz4if4
+- Github: https://github.com/MHuzaifa191
 
 ## Blog Post
 Blog link: https://medium.com/@m.huz4if4/boost-your-devops-workflow-docker-and-jenkins-in-action-3a22aff8d147
