@@ -1,6 +1,42 @@
 ## Students Contribution Page
 
-Things students have learned from DevOps course, blogpost they have written, social media profile links and links to learning resources
+Things students have learned from the DevOps course, blogpost they have written, social media profile links and links to learning resources
+
+
+# Meer Hashaam Khan
+LinkedIn: https://www.linkedin.com/in/hashaam011/
+
+ # What I Learned
+During the DevOps course, I gained insights into:
+
+CI/CD Pipelines
+Automating builds, testing, and deployment processes.
+
+Automation Tools
+Jenkins, GitLab CI, and CircleCI for pipeline automation.
+
+Version Control
+Git workflows and team-based development.
+
+Docker in CI/CD
+Using Docker containers for consistency between environments.
+
+Infrastructure as Code (IaC)
+Terraform and Ansible for automated infrastructure management.
+
+ # Blogs I Have Written
+1. CI/CD Pipeline: Automating Deployment
+An intro to automating workflows with CI/CD.
+
+Medium: https://medium.com/@hashaamkhan975/continuous-integration-ci-and-continuous-delivery-cd-the-backbone-of-devops-95f0d12c71ea
+
+# 3 Topics Covered
+CI/CD Pipeline Setup
+GitOps for Infrastructure Automation
+Containerization with Docker
+Kubernetes for Orchestration
+Signing Container Images
+Deploying to Kubernetes
 
 # Ahmad Tahir Chaudhry:
 Twitter:  https://twitter.com/AhmadTC
