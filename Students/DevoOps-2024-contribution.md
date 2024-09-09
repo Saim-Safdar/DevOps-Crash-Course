@@ -25,3 +25,17 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Muhammad Farjad (21i-0660)
+
+LinkedIn: https://www.linkedin.com/in/muhammad-farjad-665540226/
+Personal Blog: https://farjad.me/blog
+Medium: [Click here](https://medium.com/@twitchingfarjad/unleashing-the-speed-of-teradata-vantage-architecture-features-and-why-its-fast-a6fc5a7bc228)
+Github: https://github.com/BeastMasterGrinder
+
+## Blog Post
+Blog link: https://farjad.me/blog and [Medium](https://medium.com/@twitchingfarjad/unleashing-the-speed-of-teradata-vantage-architecture-features-and-why-its-fast-a6fc5a7bc228)
+
+This blog is about the architecture of Teradata Vantage; how fast it is and what are the advantages of using it. 
+
+Learning resources:[Teradata Documentation](https://docs.teradata.com/)
+
