@@ -13,3 +13,20 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+## Muhammad Hammad I212586
+```
+
+   LinkedIn: https://linkedin.com/in/muhammad-hammad-a1426b270
+   Medium Profile https://medium.com/@muhammadhammad58285
+   GitHub https://github.com/muhammad-hammad58285
+
+   Blog Link: https://medium.com/@muhammadhammad58285/optimizing-docker-for-edge-computing-a-guide-to-efficient-deployments-bdc2ec06fe3f
+
+   I learnt how the docker is being used to containerize. Creating images which consume less resources are important and how to make them use less resources.
+
+   Resources:
+   https://www.barbara.tech/blog/deploying-intelligence-edge-docker
+   https://www.altus.com.br/en/post/569/5-real-applications-of-docker--2b-edge-computing
+   ```
+
+
