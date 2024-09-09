@@ -1,16 +1,12 @@
-# DevOps 22024 Students Contributions! 
+# DevOps 2024 Student Contributions
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
+| **Name**           | **Roll Number** |
+|--------------------|-----------------|
+| Shahzeb Umer       | 21i-0893        |
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
-
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+**Instagram Profile:** umershahzeb  
+**Medium Profile:** [umershahzeb](https://medium.com/@umershahzeb)  
+**GitHub Profile:** [umershahzeb02](https://github.com/umershahzeb02)
 
 ## Sanaullah Momin (21i-0614)
 
@@ -25,3 +21,12 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Blog Posts
+
+**1. [Are We Making DevOps Complicated? The case of simplicity in tooling](https://medium.com/@umershahzeb/are-we-making-devops-complicated-the-case-of-simplicity-in-tooling-54b5878b5d8a)**
+- **Summary:** Managing many complex DevOps tools can overwhelm teams and reduce productivity. The article argues that while tools like Docker and Kubernetes offer powerful capabilities, their complexity can lead to steep learning curves and maintenance issues. Embracing a simpler toolset can improve efficiency, reduce costs, and enhance team collaboration.
+
+## Learning Resources
+- Pereira, S. (2020). Simplifying DevOps: Why less is more. DevOps.com. https://devops.com/simplifying-devops-why-less-is-more/
+- Kim, G., Behr, K., & Spafford, G. (2018). The Phoenix project: A novel about IT, DevOps, and helping your business win.
+- IT Revolution Press. Short, C. (2021). Simplifying DevOps: How to reduce complexity and increase agility. Medium. https://medium.com/simplifying-devops/simplifying-devops-how-to-reduce-complexity-and-increase-agility-9f2d44a4df6c
