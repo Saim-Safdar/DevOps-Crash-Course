@@ -4,12 +4,19 @@ This course introduces students to the key principles of DevOps, a set of practi
 
 ## Mandatory Things
 - Name and Roll number
+- Azeem Waqar 21i-0679
 - LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
+- LinkedIn: https://www.linkedin.com/in/azeemwaqar/
 - Medium Profile link
+- https://medium.com/@azeemwaqar5245
 - Github Profile link
+- https://github.com/i210679
 
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
-
-
+- I wrote a blog highlighting key differences between Docker and Kubernetes.
+- I learned how they are different and how they interact with each other.
+- I also learned in what cases each of them is better and why
+- Mention learning Resources.
+- https://kubernetes.io/
+- https://www.docker.com/
