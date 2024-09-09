@@ -13,3 +13,14 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+# Danish Javaid (sec-A)
+- Roll no: 21i-2474
+- Linkdin: https://www.linkedin.com/in/muhammad-danish-javaid-3aa69725b/
+- Github: https://github.com/daniis-h
+- Medium: https://medium.com/@i212474
+
+## My Blog: Virtual Machines vs. Containers: Understanding the Key Differences
+### Medium link: https://medium.com/@i212474/virtual-machines-vs-containers-understanding-the-key-differences-8942ec833e68
+
+## Summary:
+Virtual Machines (VMs) and Containers are both popular ways to run apps, but they work differently. VMs are like full-fledged computers inside your computer, which is great for running multiple operating systems but uses more resources. containers are lighter, start up fast, and are perfect for breaking apps into smaller pieces, but they share the host OS, so they’re less isolated compared to VMs. Choosing between them depends on whether you need more security and isolation or speed and efficiency
