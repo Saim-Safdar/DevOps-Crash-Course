@@ -872,7 +872,7 @@ I learned the following things:
 4. Troubleshoot common issues
 
 # Blogs I have written
-I have written one blogs as of the writing of this commit. These can be found at medium.com and on the official Cloud Native Islamabad.
+I've written one blogs as of the writing of this commit. These can be found at medium.com and on the official Cloud Native Islamabad.
 
 ## 1. Optimize Your Workflow: Configuring Multiple GitHub Accounts on a Single Machine with SSH
    
