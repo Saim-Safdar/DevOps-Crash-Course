@@ -12,4 +12,16 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+## Ghulam Mujtaba  (21i-0714)
+- Linkedin : https://www.linkedin.com/in/ghulam-mujtaba-16544230a/
+- Medium: https://medium.com/@gmujtaba1218
+- GitHub: https://github.com/mujtaba510
+
+## Blogs
+-https://medium.com/@gmujtaba1218/integrating-docker-compose-ci-cd-pipelines-for-automated-deployments-fb3bc7f5797c
+-I learnt how to create ci/cd pipelines for automated deployments in Docker.
+## Learning Lessons
+- https://circleci.com/blog/build-cicd-pipelines-using-docker/
+- https://skynix.co/resources/building-a-ci-cd-pipeline-using-docker
+- https://docs.docker.com/build/ci/
 
