@@ -22,8 +22,8 @@ Blog Link: https://medium.com/@mudasir.saeed01/optimizing-docker-images-for-fast
 - This blog outlines simple strategies to optimize Docker images for faster MERN stack deployments, including using lightweight images, multi-stage builds, `.dockerignore` files, and caching techniques for more efficient builds and smaller image sizes.
 
 Learning Resources: 
-https://www.augmentedmind.de/2024/06/11/optimize-docker-image-size/
-https://redragno.hashnode.dev/dockerizing-a-mern-stack-web-application
+- https://www.augmentedmind.de/2024/06/11/optimize-docker-image-size/
+- https://redragno.hashnode.dev/dockerizing-a-mern-stack-web-application
 
 ## Sanaullah Momin (21i-0614)
 
