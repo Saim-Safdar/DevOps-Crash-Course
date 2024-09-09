@@ -13,3 +13,18 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+## Khadija Afzal
+Roll Number: 21i-0377
+
+Linkedin: https://www.linkedin.com/in/khadija-afzal-856512226/
+Github: https://github.com/Khadija-Afzal
+Medium: https://medium.com/@i210377/introduction-to-microservices-in-devops-f2ba08b7d5be
+
+## BLOG: Introduction to Microservices in DevOps
+
+# Summary: 
+Microservices break applications into small, independent services that can be developed, deployed, and scaled separately, enhancing flexibility and scalability. DevOps practices like CI/CD, automation, and containerization align well with microservices, enabling faster releases, resilience, and better collaboration. However, managing microservices with DevOps requires careful orchestration and monitoring to handle increased complexity. Together, they create a more agile and reliable software development process.
+
+# Learning Resources:
+https://cloud.google.com/architecture/microservices
+https://www.redhat.com/en/topics/devops
