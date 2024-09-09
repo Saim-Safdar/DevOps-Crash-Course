@@ -13,3 +13,10 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Mention learning Resources. 
 
 
+# Ali Arshad 21I-0756
+# Profile Links
+Medium: https://medium.com/@i210756
+Github: https://github.com/Tempest211
+
+# Blogs:
+1. First Blog Assignment Link: https://medium.com/@i210756/streamlining-edge-ai-deployment-in-flutter-apps-with-docker-a-complete-guide-2060b74baa71
