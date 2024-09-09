@@ -25,3 +25,19 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+
+Name: Iqra Zafar
+20i-2401
+This is my blog:
+
+Here the some details of my project:
+The Car Modification Web Application is set to revolutionize the automotive customization industry by addressing key inefficiencies and enhancing user experience. By integrating advanced technologies and providing a centralized platform, we aim to deliver a seamless, engaging, and efficient solution for car enthusiasts, modifiers, and suppliers. Stay tuned as we embark on this exciting journey to reshape the future of car customization!
+
+Medium link:
+https://medium.com/@i202401/revolutionizing-car-customization-introducing-the-car-modification-web-application-2a3e87594d65
+
+
+
+
+
