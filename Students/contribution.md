@@ -1,6 +1,6 @@
 ## Students Contribution Page
 
-Things students have learned from the DevOps course, blogpost they have written, social media profile links and links to learning resources
+Things students have learned from the DevOps course, blog post they have written, social media profile links and links to learning resources
 
 
 # Meer Hashaam Khan
