@@ -25,3 +25,28 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+# Muhammad Kashif:
+LinkedIn:  linkedin.com/in/muhammad-kashif-542761168
+GitHub: https://github.com/MK61395
+
+# What I learned
+During writing my blog, I learned the following:
+
+1. Amazon AWS
+
+2. AWS Services
+
+3. Compute Offerings
+
+4. Storage Offerings
+
+5. Database Offerings
+
+6. AWS Lambda
+
+
+# Blogs I have written
+
+Cloud Basics for DevOps: Getting Started with AWS
+Medium Link: https://medium.com/@m.kashi613/cloud-basics-for-devops-getting-started-with-aws-8490c902c9b9 
+
