@@ -25,3 +25,22 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+
+## Umar Asghar (21i-0409)
+
+LinkedIn: https://www.linkedin.com/in/umar-asghar-khan/
+Medium: https://medium.com/@umarasgharkhan2020
+Github: https://github.com/UmarAsgharK
+
+## Blog Post
+Blog link: https://medium.com/@umarasgharkhan2020/introduction-to-kubernetes-a-beginners-guide-62795e86b515
+
+
+Kubernetes is an open-source platform that automates the deployment, scaling, and management of containerized applications, making it ideal for modern cloud environments. It simplifies tasks like scaling applications, ensuring high availability, and providing consistent environments across multiple platforms. Kubernetes is widely adopted for its ability to enhance operational efficiency and resilience in managing complex, distributed systems
+
+Learning resources: 
+https://kubernetes.io/docs/concepts/overview/
+https://youtu.be/TlHvYWVUZyc?si=2JRz0EmYNz5T_nqN
+https://www.youtube.com/watch?v=hJw8Sy13Vp8
+
