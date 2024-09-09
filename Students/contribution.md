@@ -857,3 +857,14 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Muhammad Kashif:
+Linkedin: linkedin.com/in/muhammad-kashif-542761168
+GitHub: https://github.com/MK61395
+
+# Blogs I have written
+I have written my first blog on the topic: Cloud Basics for DevOps: Getting Started with AWS
+
+## 1. Let’s do DevOps with GitLab — an intro to GitLab
+   
+   Medium Link:   https://medium.com/@m.kashi613/cloud-basics-for-devops-getting-started-with-aws-8490c902c9b9
+
