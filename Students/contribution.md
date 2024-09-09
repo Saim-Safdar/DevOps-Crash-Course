@@ -670,7 +670,7 @@ https://medium.com/@awabamjid/kubernetes-configuration-file-declarative-manageme
 4) https://docs.sigstore.dev/cosign/overview/
 5) https://kyverno.io/docs/
 
-## Minhaj Khalil
+## Minhaj Khalil.
 
 LinkedIn : https://www.linkedin.com/in/minhaj-khalil-33b077266/
 
