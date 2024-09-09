@@ -30,11 +30,13 @@ Name: Syed Muhammad Ale Mubar
 Roll Number: 21I-2566
 
 Medium Profile Link: Syed Muhammad Ale Mubar on Medium
-GitHub Profile Link: 21I-2566 on GitHub
+GitHub Profile Link: https://github.com/21I-2566
 
 List of Blog Post Links:
 
-From Basics to Advanced: Docker and Containerization
+From Basics to Advanced: Docker and Containerization 
+https://medium.com/@smamubar.moini/from-basics-to-advanced-docker-and-containerization-95ebd99403b3
+
 Summary of Blog Post: This blog post provides a comprehensive guide on Docker and containerization, covering basic to advanced concepts. It explains the fundamentals of Docker, including containerization, Docker images, and Docker Compose, while also addressing security measures and CI/CD pipelines. The post is aimed at helping readers understand how Docker improves application deployment and management.
 
 What I Have Learned: Throughout writing this blog, I gained a deeper understanding of Docker's role in modern software development, especially in terms of containerization and efficient application management. I also learned about Docker Compose and how it simplifies managing multi-container applications, as well as best practices for securing Docker environments.
