@@ -12,4 +12,16 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+# Hassan Nawaz - i212993
+- LinkedIn: https://www.linkedin.com/in/hassannawaz-ln/
+- Medium: https://medium.com/@hassannawaz69
+- Github: https://github.com/hassannawaz1210
+
+## List of blogs:
+- [Docker Swarm vs Kubernetes](https://medium.com/@hassannawaz69/docker-swarm-vs-kubernetes-afcd89a76879)
+  - **Summary:** Docker Swarm and Kubernetes are both container orchestration tools but cater to different needs. Docker Swarm is suitable for small to medium-scale deployments with its simpler setup and management, while Kubernetes is designed for high scalability and complex applications, offering advanced features like self-healing and extensive customization.
+  - **Learning Resources:** 
+    - [Docker Swarm Docs](https://docs.docker.com/engine/swarm/)
+    - [Kubernetes Docs](https://kubernetes.io/docs/)
+
 
