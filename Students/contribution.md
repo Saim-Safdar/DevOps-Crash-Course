@@ -6,7 +6,7 @@ Things students have learned from the DevOps course, blogpost they have written,
 # Meer Hashaam Khan
 LinkedIn: https://www.linkedin.com/in/hashaam011/
 
- # What I Learned
+ # What I Learned while writing
 During the DevOps course, I gained insights into:
 
 CI/CD Pipelines
