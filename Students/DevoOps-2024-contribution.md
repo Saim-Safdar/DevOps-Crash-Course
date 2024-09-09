@@ -25,13 +25,13 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
-
+---
 
 ## Muhammad Arfat (21i-0554)
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+- LinkedIn: https://www.linkedin.com/in/arfatkh/
+- Medium: https://medium.com/@cyberflops
+- Github: https://github.com/arfatkh
 
 ## Blog Post
 1. Blog link: [Simplifying Micro-Services with Docker Compose](https://medium.com/@cyberflops/simplifying-micro-services-with-docker-compose-410fd60aceac)
