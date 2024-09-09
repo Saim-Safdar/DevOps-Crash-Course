@@ -2,26 +2,22 @@
 
 This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
 
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+# Aftab Bashir - Contributions
 
-## Sanaullah Momin (21i-0614)
+**Name:** Aftab Bashir  
+**Roll Number:** 19I-0575  
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+## Profiles:
+- **LinkedIn:** [Aftab Bashir's LinkedIn](https://www.linkedin.com/in/aftab-bashir-066645198/)
+- **Medium:** [Aftab Bashir's Medium](https://medium.com/@i190575)
+- **GitHub:** [Aftab Bashir's GitHub](https://github.com/i190575)
 
-## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+## Blog Posts:
+(Autoscaling containers based on traffic or load is essential for ensuring high availability and cost-efficiency in modern applications.)
+[Medium Post](https://medium.com/@i190575/autoscaling-containers-based-on-traffic-or-load-a-detailed-guide-061091392e8a)
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+## Learning Resources:
+(https://www.devskillbuilder.com/understanding-load-balancers-api-gateways-and-web-servers-5c0ca8fe9235)
 
-Learning resources: https://docs.docker.com/build/buildkit/
 
