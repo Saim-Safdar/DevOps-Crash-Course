@@ -25,3 +25,14 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+## Uswah Siddiq (21i-0551)
+
+- [LinkedIn](https://www.linkedin.com/in/uswah-siddiq-akhund-306403224/)
+- [Medium](https://medium.com/@uswah.siddique)
+- [GitHub](https://github.com/UswahAA)
+
+## Blog Post
+- [Routerover: Navigating the Future of Travel with Community Insights](https://medium.com/@uswah.siddique/routerover-navigating-the-future-of-travel-with-community-insights-58b1fa6f34e3)
+
+`RouteRover introduces a revolutionary approach to travel by combining traditional maps with the invaluable insights of local communities. Our team is thrilled by its potential to enhance travel experiences through real-time updates from local volunteers, ensuring safer, more informed journeys with personalized safety alerts and recommendations.`
