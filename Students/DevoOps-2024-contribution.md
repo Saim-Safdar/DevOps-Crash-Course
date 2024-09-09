@@ -12,4 +12,14 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+## Bio
+- Muhammad Ahmad
+- i21-0790
+- Linkedin:  https://www.linkedin.com/in/muhammad-ahmad-2295b0242/
+- Medium: https://medium.com/@ahmad-imran
+- Github: https://github.com/ahmad-imran15
 
+## Blogs
+- I have written blog on my android applcation NU Timetable that is available for Fast University students. The NU Timetable app provides an easy way for FAST University students and teachers to manage their schedules, check free slots, and access course updates. It integrates with Flex and Slate for notifications and grades, while also offering custom reminders and daily notifications. Through this project, I learned the importance of usability in simplifying routine academic tasks.
+
+https://medium.com/@ahmad-imran/nu-timetable-simplifying-timetable-management-for-fast-university-students-and-faculty-aa058232e162
