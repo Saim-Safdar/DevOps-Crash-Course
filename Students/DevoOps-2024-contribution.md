@@ -1,27 +1,23 @@
-# DevOps 22024 Students Contributions! 
+# Ali Khizar:
+Github: https://github.com/alikhizarsohal
+Linkedin: https://pk.linkedin.com/in/ali-khizar-308b5a1b3?original_referer=https%3A%2F%2Fwww.google.com%2F
 
-This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
+# What I learned
+During the Devops course I learned in depth:
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
+1. What are the issues before docker.
 
-## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+2. What is the need of docker.
 
-## Sanaullah Momin (21i-0614)
+3. Containers
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+4. Issues in Virtual Machines
 
-## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+5. Docker and how to use it
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+# Blogs I have written
+I have written 1 blogs as of the writing of this commit. These can be found at medium.com
 
-Learning resources: https://docs.docker.com/build/buildkit/
-
+## 1. Why Docker Is the Tool You Didn’t Know You Needed
+   
+   Medium Link:  https://medium.com/@alikhizar9110/why-docker-is-the-tool-you-didnt-know-you-needed-5543cf57a006
