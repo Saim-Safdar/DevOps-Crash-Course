@@ -25,3 +25,19 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+
+
+## Huzaifa Haider (21i-0784)
+
+LinkedIn: https://www.linkedin.com/in/huzaifa-haider-/
+Medium: https://medium.com/@huzaifahaider
+Github: https://github.com/huzaifa-haider
+
+
+## Blog Post
+Blog link: https://medium.com/@huzaifahaider/7da19722c729
+
+This blog is about user of docker in tech industry.
+
+
