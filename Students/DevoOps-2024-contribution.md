@@ -38,6 +38,8 @@ Github: https://github.com/huzaifa-haider
 ## Blog Post
 Blog link: https://medium.com/@huzaifahaider/7da19722c729
 
-This blog is about user of docker in tech industry.
+This blog is about user of docker in tech industry. 
+
+Resources https://www.youtube.com/watch?v=WNUCAPKa44Y
 
 
