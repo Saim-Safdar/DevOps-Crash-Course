@@ -24,10 +24,6 @@ Here's the official course outline: [Course Outline](https://docs.google.com/doc
 - **Dockerising Angular Repository**: [GitHub Link](https://github.com/Saim-Safdar/Dockerizing-Angular)
 - **Example Voting App Repository**: [GitHub Link](https://github.com/dockersamples/example-voting-app) - Docker Compose deep dive and Kubernetes basics
 
----
-
 ## **Week 4: Kubernetes**
 
-```
-This section will be updated later
-```
+- **Introduction to Kubernetes Slides** Check out the slides here: [Introduction to Kubernetes](https://docs.google.com/presentation/d/1-Hq_BFO19U479TrBRxQkpSoXYD2wbZy_gLNIvcTh_uo/edit#slide=id.g16ce3142ea5_0_50)
