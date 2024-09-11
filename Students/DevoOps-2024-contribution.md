@@ -2,6 +2,11 @@
 
 This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
 
+## List your Blog post links here.
+
+- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
+- Mention learning Resources.
+
 ## Muhammad Abdur Rafey
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdur-rafey-a15124248/)
