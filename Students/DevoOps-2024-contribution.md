@@ -14,9 +14,23 @@ This course introduces students to the key principles of DevOps, a set of practi
 ## Mishal Ahmed
 Roll Number: 21i-0471
 
+
 Linkedin: https://www.linkedin.com/in/mishal-ahmed-a58807258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 Github: https://github.com/MishalAhmed6
 Medium: https://medium.com/@ahmedmishal636
+
+## Sanaullah Momin (21i-0614)
+
+LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
+Medium: https://medium.com/@sanaullahmomin111
+Github: https://github.com/momin4930
+
+## Blog Post
+Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+
+This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+
+Learning resources: https://docs.docker.com/build/buildkit/
 
 ## BLOG: The Great Divide: Are Software Engineers Without AI/ML Skills Being Left Behind?
 
