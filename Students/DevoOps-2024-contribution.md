@@ -7,6 +7,10 @@ This course introduces students to the key principles of DevOps, a set of practi
 - LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
 - Medium Profile link
 - Github Profile link
+  Saad Amir 20i-0650
+  https://www.linkedin.com/in/saadamirr
+  https://medium.com/@saadamir1/understanding-ci-cd-the-backbone-of-modern-devops-890926cade93
+  https://github.com/saadamir1
 
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
