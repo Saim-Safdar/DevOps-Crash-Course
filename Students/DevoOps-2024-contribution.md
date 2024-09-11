@@ -25,3 +25,15 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Ibrahim Khan (21i-0601t)
+
+LinkedIn: https://www.linkedin.com/in/ibrahim-khan-894629250/
+Medium: https://medium.com/@ibrahimkhan2k2
+Github: https://github.com/speedyibbi
+
+## Blog Post
+Blog link: https://medium.com/@ibrahimkhan2k2/how-to-dockerize-a-nextjs-app-4a5dfc2a6864
+
+This blog is about how to containerize a Next JS web application for self hosting, instead of using Vercel which is the default way to host a Next JS web app.
+
+Learning resources: https://docs.docker.com/build/buildkit/ https://github.com/vercel/next.js/tree/canary/examples/with-docker
