@@ -12,6 +12,9 @@ This course introduces students to the key principles of DevOps, a set of practi
   https://medium.com/@saadamir1/understanding-ci-cd-the-backbone-of-modern-devops-890926cade93
   https://github.com/saadamir1
 
+  CI/CD helps teams quickly build, test, and release software updates.
+  It makes development faster and improves teamwork by automating key steps in the process.
+
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
