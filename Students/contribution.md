@@ -857,3 +857,20 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Muneel Haider
+# Roll Number: 21i-0640
+Linkedin: https://www.linkedin.com/in/muneel-haider/
+Github: https://github.com/MuneelHaider
+
+# Blogs I have written
+I have written a blog on Continous Integration and Continous Delivery aka CI/CD.
+
+## 1. Continuous Integration and Continuous Delivery (CI/CD): A Comprehensive Guide.
+   
+Medium Link:   https://medium.com/@muneelhaider/continuous-integration-and-continuous-delivery-ci-cd-a-comprehensive-guide-fd4aae513887
+
+This blog is a comprehensive beginner guide to CI/CD for beginners, explaining what CI/CD is and how pipelines are created for practical implementation.
+
+## Learning Resources:
+GitLab CI/CD Documentation: https://docs.gitlab.com/ee/ci/
+DigitalOcean: https://www.digitalocean.com/community/tutorial_series/introduction-to-ci-cd
