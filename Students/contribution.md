@@ -856,4 +856,11 @@ for i in future:
 
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
+# Muhammad Abdullah Blog 21i-0643
+Links
+Medium: https://medium.com/@muhammadabdullah2604/devsecops-integrating-security-into-devops-31e4210c2719
+Linkedin: https://www.linkedin.com/in/muhammad-abdullah-14b05a24b/
+Github: https://github.com/Abdulla266
+
+
 
