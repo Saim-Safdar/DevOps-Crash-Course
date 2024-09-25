@@ -25,3 +25,17 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+## Malaika Azeem
+Roll Number: 21i-2597
+
+Github: https://github.com/malaikazeem
+Medium: https://medium.com/@malaikazeem01/docker-vs-podman-whats-the-best-container-solution-for-you-b043f588efdd
+
+## BLOG: Docker vs. Podman: What’s the Best Container Solution for You?
+# Summary: 
+Docker has been the traditional containerization tool for a while now. However, the recent introduction of Podman as another containerization tool has sparked a debate among developers about which one of these tools is better.
+
+# Learning Resources:
+https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/
+https://www.imaginarycloud.com/blog/podman-vs-docker
