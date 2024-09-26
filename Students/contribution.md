@@ -857,3 +857,40 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Usman Arshad:
+Linkedin: https://www.linkedin.com/in/usman-arshad-virk-929191203/
+
+Twitter: https://twitter.com/usmanvirk052
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+1.	Docker
+2.	VM
+3.	Podman
+4.	SBOM
+5.	Cosign
+6.	Kaniko
+7.	Kubernetes
+8.	Ingress
+9.	GKE, AKS, k3s, minikube, and KIND
+10.	Servce mesh( Istio, Linkerd)
+
+# My Blogs:
+## 1.	Docker run vs Docker-compose
+In this tutorial you will learn what is the difference between docker run vs docker-compose. And Which one should you choose(docker-run vs docker-compose)?
+
+https://medium.com/@usmanvirk052/docker-run-vs-docker-compose-f21bff5b97a6
+
+
+## 2.	Kubernetes-Ingress
+In this tutorial you will learn what is ingress in Kubernetes? why do we need? And how to create?
+
+https://medium.com/@usmanvirk052/kubernetes-ingress-fd8e9e9cb3b0
+
+# Links to learning resources:
+1.	https://www.docker.com/
+2.	https://kubernetes.io/
+3.	https://kubernetes.io/docs/concepts/services-networking/ingress/
+4.	https://podman.io/
+5.	https://linkerd.io
+   
