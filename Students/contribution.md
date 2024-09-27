@@ -857,3 +857,67 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Bazil Sajjad:
+Twitter:  https://twitter.com/bazil852
+Linkedeln: https://www.linkedin.com/in/bazil-sajjad-74909b219/
+
+# What I learned
+During the Devops course I learned in depth:
+
+1. Containers
+
+2. Problems with Virtual Machines
+
+3. Docker basics and started using it with all my projects.
+
+4. Detailed usage of podman.
+
+5. Signing Container Images using Cosign
+
+6. Kubernetes Clusters
+
+7. Used K8s successfully 
+
+8. Kyverno Policies and Rules
+
+9. Gitops
+
+# Blogs I have written
+I have written three blogs as of the writing of this commit. These can be found at medium.com 
+
+## 1. Setting up podman and a comparison with docker. 
+
+Podman's comparison with docker and setup on windows.
+   
+   Medium Link:  https://medium.com/@bazilsb7/setting-up-podman-and-a-comparison-with-docker-c9d2727d4389
+   
+## 2. Podman setup on Mac,Linux & Windows
+Podman setup and basics on multiple platforms (Linux, Macosx, Windows)
+   
+   Medium Link:  https://medium.com/@bazilsb7/podman-setup-on-mac-linux-windows-4f233933dd44
+   
+ ## 3. Podman Play Kuber an Kubernetes
+   
+   Medium Link:  https://medium.com/@bazilsb7/podman-play-kube-and-kubernetes-235a18e15328
+
+# What We learned
+What I learned in the course of DevOps were the topics
+
+1. Difference between Devops and Gitops
+
+2. Detailed architecture of docker
+
+3. Docker setup and basics
+
+4. Alternatives to docker (Podman, Kaniko etc)
+
+5. Signing Container Images (Cosign)
+
+6. Basics of Kubernetes
+
+7. Different versions of Kubernetes such as k3s, k8s etc.
+
+8. Why there was a need for Kubernetes when Docker and other such applications existed
+
+9. Importance of Open Source contribution
+
