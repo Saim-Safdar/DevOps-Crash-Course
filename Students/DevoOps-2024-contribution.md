@@ -21,3 +21,12 @@ This course introduces students to the key principles of DevOps, a set of practi
 
 ## This blog highlights the features and components of both docker and podman. Then mentions the differences between the two and which one should you choose. 
 
+
+## Azmeer Sohail Khan (21i-2977)
+## https://www.linkedin.com/in/azmeer-sohail-3381b62bb/
+## https://medium.com/@i212977
+## https://github.com/AzmeerSohail
+## Blog link
+## [Running Lightweight Kubernetes on AWS EC2 Instances with K3s](https://medium.com/@i212977/running-lightweight-kubernetes-on-aws-ec2-instances-with-k3s-6c29223e4e2a)
+
+## This blog explains how to deploy a lightweight Kubernetes cluster using K3s on AWS EC2 instances, providing detailed steps and commands for installation, configuration, and application deployment. It offers a cost-effective and efficient solution for small to medium-scale Kubernetes workloads.
