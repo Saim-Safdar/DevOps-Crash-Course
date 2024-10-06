@@ -25,3 +25,11 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## M.Talal Habshi (21i-2977)
+## https://www.linkedin.com/in/muhammad-talal-habshi-7b380328a/
+## https://medium.com/@talalhabshi03
+## https://github.com/Taloo123/
+## Blog link
+## [Kubernetes Troubleshooting: Debugging Pods and Cluster Issues](https://medium.com/@talalhabshi03/kubernetes-troubleshooting-debugging-pods-and-cluster-issues-8be8d7597538)
+
+## The article provides a detailed guide on troubleshooting common Kubernetes issues, highlighting essential `kubectl` commands and techniques to help users diagnose and resolve problems within their pods, services, and cluster infrastructure.
