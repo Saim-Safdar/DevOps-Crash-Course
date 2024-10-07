@@ -25,3 +25,11 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Muhammad Dayyan Ahmad (21i-0772)
+LinkedIn: https://www.linkedin.com/in/dayyan-ahmad/
+Medium: https://medium.com/@dayyanahmad12377
+Github: https://github.com/RayeDayyan
+
+Blog description : I wrote a blog about Minikube, summarizing what it does , how it's different from Kubernetes, when to use it and how to use it . 
+Blog link : https://medium.com/@dayyanahmad12377/what-exactly-is-minikube-2372b8a5989f
+
