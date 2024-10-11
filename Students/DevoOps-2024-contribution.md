@@ -8,4 +8,7 @@
 - Docker vs Virtual Machines: What’s the Difference?
 - https://medium.com/@callmemutiurrehman/docker-vs-virtual-machines-whats-the-difference-27da6b7e4851
 
+- Kubernetes for Machine Learning Workloads: A Comprehensive Guide
+- https://medium.com/@callmemutiurrehman/kubernetes-for-machine-learning-workloads-a-comprehensive-guide-fdd92fbe28cc
+
 
