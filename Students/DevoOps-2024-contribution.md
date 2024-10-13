@@ -12,16 +12,37 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+<br>
+<br>
+<br>
+
 ## Sanaullah Momin (21i-0614)
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309 <br>
+Medium: https://medium.com/@sanaullahmomin111 <br>
+Github: https://github.com/momin4930 <br>
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753 <br>
 
 This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+<br>
+<br>
+<br>
+
+## Muhammad Affan (21i-0474)
+
+LinkedIn: https://www.linkedin.com/in/sheikhmuhammadaffan/ <br>
+Medium: https://medium.com/@affan4321 <br>
+Github: https://github.com/affan4321 <br>
+
+## Blog Posts
+Blog1 Link: https://medium.com/@affan4321/deep-dive-dockerizing-wasm-based-gen-ai-applications-a39363b1a8e0 <br>
+Blog2 Link: https://medium.com/@affan4321/knative-a-complete-approach-towards-serverless-kubernetes-88e520b3da81 <br>
+
+<br>
+<br>
+<br>
