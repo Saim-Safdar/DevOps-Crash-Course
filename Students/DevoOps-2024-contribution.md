@@ -12,16 +12,12 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
-## Sanaullah Momin (21i-0614)
+## Jawad Ur Rehman (20i-0633)
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+Medium: https://medium.com/@i200633
+Github: https://github.com/jawad633
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+Blog link: https://medium.com/@i200633/pulumi-building-configuring-and-deploying-application-with-docker-3ed1a5bc6201
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
-
-Learning resources: https://docs.docker.com/build/buildkit/
-
+This blog is about Pulumi. It introduces users to the fundamentals of Pulumi using real life application example. It users docker containers and images along side pulumi.
