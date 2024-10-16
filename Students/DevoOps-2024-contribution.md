@@ -16,3 +16,9 @@ Ansible is an open-source tool that simplifies IT automation by allowing users t
 
 Learning resources: https://docs.ansible.com/
 
+2nd Blog link: https://medium.com/@i200557/setting-up-local-kubernetes-development-with-minikube-86218fda9648
+
+This blog explains how to set up a local Kubernetes development environment using Minikube. It covers installation across different operating systems, starting a local Kubernetes cluster, and deploying a simple "Hello World" application. The guide also includes YAML examples and steps to manage the cluster, making it an ideal starting point for developers learning Kubernetes.
+
+
+
