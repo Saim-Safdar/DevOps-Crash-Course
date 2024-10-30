@@ -842,7 +842,6 @@ In this I examined Linkerd and Istio tools and evaluate them against various sta
 
 ## My Future Plan
 
-```python
 # M Hanzella Khan
 
 ##20P-0616
