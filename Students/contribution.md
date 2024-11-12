@@ -857,3 +857,28 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+Here's a similar layout for Abdul Rafay's blogs and learning areas:
+
+---
+
+Learning resources: https://docs.aws.amazon.com/eks/
+
+# Abdul Rafay i200989
+
+- **Learning:**
+  - DevOps
+  - CI/CD Pipelines
+  - Git
+  - Amazon EKS
+  - Kubernetes
+  - Jenkins
+  - Docker
+  - Ansible
+
+**Blog 1: Introduction to DevOps**  
+In this blog, I introduce DevOps as a transformative approach to streamline software development and deployment by bringing together development and operations teams. I cover DevOps’ history, the core principles—collaboration, automation, continuous integration, and continuous delivery—and the ways it enhances productivity through faster releases, improved stability, and greater efficiency. For newcomers, I explore the essential DevOps tools like Git, Jenkins, Docker, and Kubernetes and share best practices to help beginners kickstart their DevOps journey.
+
+**Blog 2: Understanding Amazon EKS: Simplifying Kubernetes in the Cloud**  
+In this post, I explore Amazon EKS (Elastic Kubernetes Service), a managed service that simplifies running Kubernetes on AWS. I detail how EKS automates the management of the Kubernetes control plane, enabling high availability and seamless scaling. Key features covered include AWS integration (with services like S3 and CloudWatch), support for Fargate for serverless Kubernetes pods, and the benefits of scalability and security. I also include a step-by-step guide for setting up EKS, configuring `kubectl`, and deploying applications, making it easier for readers to get started with Kubernetes on AWS.
+
+
