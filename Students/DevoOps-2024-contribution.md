@@ -25,3 +25,23 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Mohammad Attique
+Roll Number: 21i-0410
+
+Linkedin: www.linkedin.com/in/attique20
+Github: https://github.com/Mattique20
+Medium: https://medium.com/@mattique02
+
+## BLOG: Building and Optimizing Beowulf Clusters with Docker on Windows
+
+# Summary: 
+This blog post explores the benefits of using Docker to simplify the creation and management of Beowulf clusters for high-performance computing. It provides a step-by-step guide with code snippets, and highlights Docker's advantages like simplified deployment, portability, and resource efficiency. Key factors like custom MPI programs, orchestration, networking, storage, and security are also emphasized.
+
+# Learning Resources:
+https://medium.com/@mattique02/building-and-optimizing-beowulf-clusters-with-docker-on-windows-1b1e83532c27
+https://github.com/NLKNguyen/alpine-mpich/tree/master/cluster
+https://hub.docker.com/r/nlknguyen/alpine-mpich/
+https://dingavinga1.github.io/posts/Setting-up-your-own-Beowulf-Cluster-on-Docker-as-a-PoC/
+
+
+
