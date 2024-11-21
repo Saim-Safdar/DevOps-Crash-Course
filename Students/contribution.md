@@ -856,4 +856,5 @@ for i in future:
 
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
-
+## Contribution Blogs I Have Written I have written a comprehensive blog post titled 'GitOps: Managing Infrastructure with Git' that explores the key concepts of GitOps, its benefits, and practical implementations. In the blog, I cover the fundamentals of GitOps, including how it automates infrastructure management through version control, the tools commonly used for GitOps (such as Flux and ArgoCD), and provide a simple example to help beginners get started. 
+## https://medium.com/@i200745/gitops-managing-infrastructure-with-git-11b8baf71afd
