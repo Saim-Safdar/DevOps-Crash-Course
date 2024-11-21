@@ -25,3 +25,17 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+
+## Muaz Elahi (21i-0718)
+
+LinkedIn: https://www.linkedin.com/in/muazelah1
+Medium: https://medium.com/@maazelahi119
+Github: https://github.com/perogrammer
+
+## Blog Post
+Blog Link: https://medium.com/@maazelahi119/using-apache-kafka-to-measure-and-track-car-analytics-and-metrics-in-a-carpooling-application-b125f0b0fcd7
+
+This blog post is about using Apache Kafka, a powerful event streaming platform, to measure and track analytics and metrics in our FYP.
+
+Learning resources: https://kafka.apache.org/documentation/
+
