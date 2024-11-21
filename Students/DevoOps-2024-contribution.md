@@ -18,6 +18,12 @@ LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
 Medium: https://medium.com/@sanaullahmomin111
 Github: https://github.com/momin4930
 
+## Omar Mughal (20i-0739)
+
+Github: https://github.com/Sploinki
+Medium: https://medium.com/@omarmughal0/7e45b55025db
+Blog Summary: Git is an incredible tool that transforms code management and collaboration with its dynamic features like branching and merging. It’s a game-changer for both solo developers and teams, streamlining workflows and integrating seamlessly into DevOps practices. Embracing Git ensures your code is organized, efficient, and ready for any challenge.
+
 ## Blog Post
 Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
 
