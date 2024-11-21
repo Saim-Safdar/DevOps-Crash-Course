@@ -25,3 +25,6 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Hania Zahid 22i1270 
+
+## [How to run a container on bare-metal?](https://medium.com/@i221270/how-to-run-container-on-bare-metal-8fe223fd62b1)
