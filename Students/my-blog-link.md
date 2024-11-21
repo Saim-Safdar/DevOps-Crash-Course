@@ -1,14 +1,11 @@
-# DevOps 22024 Students Contributions! 
-
-
-
+ 
 ## Mandatory Things
 - Osama Ali 
   I21-0587
   Section:B
 
 
-## Sanaullah Momin (21i-0614)
+
 
 LinkedIn: https://www.linkedin.com/in/osama-ali-a2949a241
 Medium: https://medium.com/@OsamaAli.
@@ -21,6 +18,4 @@ Docker containers provide a faster, more efficient alternative to traditional Vi
 
 
 Resources : https://www.freecodecamp.org/news/docker-vs-vm-key-differences-you-should-know/
-
-
 
