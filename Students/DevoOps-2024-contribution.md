@@ -8,6 +8,11 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Medium Profile link
 - Github Profile link
 
+  Ammar Mohammad Anwar (20I-2468)
+  https://medium.com/@larceus5/virtual-machines-vs-containers-a-brief-introduction-and-key-differences-for-devops-e2763b03fd6d
+  https://github.com/Ammar-Anwar-0
+  I wrote my blog on Virtual Machines VS Containers. It was a brief introduction to both and aimed to help beginners like myself identify the differences between them and ensure that they know when you use what. I summarised the key differences and understood both topics briefly.
+
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
