@@ -25,3 +25,13 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+##************************
+## Muhammad Hamdan Ali (21i-0754)
+## Medium profile link: https://medium.com/@hamdanali051
+## Github Profile link: https://github.com/hamdan587
+## -----------------------------------------------------
+## Blog1 link: https://medium.com/@hamdanali051/how-to-build-a-scalable-microservices-architecture-using-docker-d0fef097d917
+## Learning: 
+##In my blog, I explain how to design and deploy a scalable microservices architecture using Docker,##utilizing containerization 
+##and orchestration tools like Docker Compose and Kubernetes.I also highlight the importance of ##monitoring and logging to maintain performance and scalability.
+##************************
