@@ -50,3 +50,4 @@ This repository serves as a practical showcase of my DevOps skills, and I encour
 
 ## Thank You for Visiting!
 I hope this portfolio gives you a comprehensive view of my DevOps skills. If you have any questions or would like to collaborate, feel free to reach out. I'm always open to discussing new challenges and opportunities to apply DevOps principles.
+**Portfolio**: [Portfolio link](https://huzaifa-haider.github.io/)
