@@ -1,80 +1,53 @@
-# DevOps-Crash-Course
-This beginner's DevOps course is your first step toward a DevOps engineering. This repo contains Cloud Native Theory, Workshops, Guides, Cool Cloud Native Projects and students contribution area.
+# DevOps Skills [Portfolio](https://huzaifa-haider.github.io/)
 
-This repository contains the content of a DevOps course to send PR or make forks, with the idea to gather knowledge from different countries and mindsets. It is also intended to be a guide to understand, learn and contribute towards the use of cloud native technologies, focusing specifically on the [CNCF](https://landscape.cncf.io/) projects. Finally, you will find in this repository Cloud Native Workshops, guides and a contribution area for students to promote CNCF tecnologies in general. This content is based on the syllabus of the current course from [F.A.S.T University](https://www.nu.edu.pk/) of Pakistan.
+## Overview
+Welcome to my DevOps skills portfolio! This repository showcases my expertise and experience in implementing DevOps practices and tools to streamline the software development lifecycle. Here, I demonstrate the use of containerization, orchestration, continuous integration and delivery (CI/CD), and infrastructure automation. Through this portfolio, you can explore how I use modern DevOps technologies to ensure faster, reliable, and scalable deployments.
 
+This repository is a collection of my DevOps-related work and experiments, including but not limited to Docker, Kubernetes, Helm, Terraform, GitHub Actions, Prometheus, and Grafana. Each section highlights my proficiency with these tools and my understanding of core DevOps concepts.
 
+## Key Technologies Used:
+- **Docker**: Containerizing applications to ensure consistent and portable environments across development, testing, and production.
+- **Kubernetes**: Orchestrating containerized applications at scale, ensuring high availability, load balancing, and automated scaling.
+- **GitHub Actions**: Implementing automated CI/CD pipelines to automate testing, building, and deployment processes.
+- **Helm**: Managing Kubernetes applications with Helm charts to simplify deployments and maintain application consistency.
+- **Terraform**: Automating the provisioning of infrastructure using Infrastructure as Code (IaC) for repeatable and scalable cloud deployments.
+- **Prometheus and Grafana**: Monitoring and visualizing system metrics for enhanced observability and proactive issue resolution.
 
-- ⭐️ [CNCF OS Projects](#cncf-projects)
-    - 📂 [Repositories](#repositories)
-    - 🗒️ [Docs](#docs)
-- 🐾 [Communities](#communities)
-- 🗃️ [DevOps Roadmap](#devops-roadmap)
-- 📹 [News](#news)
-- 📑 [Slides](#slides)
-- 🎤 [Podcasts](#podcasts)
-- 🏆 [Course Progress](#course-progress)
-- 📺 [DevOps YouTube](#devops-youtube)
-- 📺 [DevOps Workshop](#devops-workshop)
-- 📺 [Cloud Native Students Days](#cloud-native-students-days)
+## DevOps Skills Demonstrated
 
+### 1. Containerization with Docker
+One of my key skills is containerizing applications using Docker. Docker allows for the creation of lightweight, isolated containers that encapsulate the application and its dependencies, ensuring that it behaves consistently across different environments. This process eliminates "works on my machine" issues and speeds up deployment.
 
-## CNCF Projects
-- [Kubernetes](https://github.com/kubernetes/kubernetes)
-- [Linkerd](https://github.com/linkerd/linkerd2)
-- [Prometheus](https://github.com/prometheus/prometheus)
-- [Keda](https://github.com/kedacore/keda)
-- [Helm](https://github.com/helm/helm)
-- [kyevrno](https://github.com/kyverno/kyverno)
-- [OPA](https://github.com/open-policy-agent/opa)
-- [Keptn](https://github.com/keptn/keptn)
-- [Paralus](https://github.com/paralus/paralus)
-- [k3s](https://github.com/k3s-io/k3s)
-- [KIND](https://github.com/kubernetes-sigs/kind)
-- [Microk8s](https://github.com/canonical/microk8s)
-- [K0S](https://github.com/k0sproject/k0s)
-- [Cartographer](https://github.com/vmware-tanzu/cartographer)
-- [ko](https://github.com/google/ko)
-- [kaniko](https://github.com/GoogleContainerTools/kaniko)
-- [Istio](https://github.com/istio/istio)
-- [Knative](https://github.com/knative/docs)
-- [Grafana](https://github.com/grafana/grafana)
+### 2. Continuous Integration & Continuous Deployment (CI/CD) with GitHub Actions
+I have hands-on experience in setting up automated CI/CD pipelines using GitHub Actions. These pipelines ensure that code changes are automatically tested, built, and deployed to various environments. By automating this process, I can significantly reduce human errors and speed up the time from development to production.
 
-## DevOps Roadmap
-- [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-- [roadmap.sh](https://roadmap.sh/devops)
+### 3. Orchestrating with Kubernetes
+I am skilled in Kubernetes, which I use to orchestrate and manage containerized applications. Kubernetes helps in automating deployment, scaling, and management of applications, allowing me to handle complex systems and ensure high availability and fault tolerance.
 
-## Communities
-- [Cloud Native Islamabad](https://community.cncf.io/islamabad/)
-- [Join CN Islamabad Discord Server](https://discord.gg/FrBKHFN8h9)
+### 4. Managing Kubernetes Deployments with Helm
+With Helm, I can manage and deploy applications on Kubernetes more efficiently. Helm provides a package manager for Kubernetes that simplifies the installation, configuration, and management of complex applications by using charts (pre-configured templates).
 
-## DevOps Workshop
-- [Docker 101](https://www.youtube.com/watch?v=0mxhS7H6bxM&t=1s)
-- [A Guide to DevOps Road Map](https://www.youtube.com/watch?v=HUcBO4ssuWs&t=4s)
+### 5. Infrastructure as Code (IaC) with Terraform
+I am proficient in using Terraform for Infrastructure as Code (IaC). This allows me to automate cloud infrastructure provisioning, making it easier to deploy and manage resources in a consistent, repeatable manner. Terraform enables me to manage entire infrastructure stacks with version control and collaboration.
 
-## DevOps YouTube
-- [Viktor Farcic](https://www.youtube.com/c/DevOpsToolkit)
-- [Bret Fisher](https://www.youtube.com/c/BretFisherDockerandDevOps)
-- [David Mccay](https://www.youtube.com/c/Rawkode)
-- [TechWorldwithNana](https://www.youtube.com/c/TechWorldwithNana)
-- [Sid Palas](https://www.youtube.com/c/DevOpsDirective)
-- [Saiyam Pathak](https://www.youtube.com/c/saiyam911)
-- [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha)
-- [Soulman Iqbal](https://www.youtube.com/c/SoulmanIqbal)
+### 6. Monitoring and Observability with Prometheus and Grafana
+I have integrated Prometheus for monitoring application and system metrics and Grafana for visualizing these metrics in real-time dashboards. This helps in gaining insights into system performance, detecting anomalies, and ensuring that applications are running smoothly in production.
 
-## Podcasts 
-- [cloudnativefm](https://www.youtube.com/channel/UC7B9fl8jQ8TEdOCypF4g3Wg)
-- [Beaming Ortelius](https://beaminortelius.buzzsprout.com/)
-- [Kubernetes Podcast](https://kubernetespodcast.com/)
-- [Kube Cuddle](https://share.transistor.fm/s/f0891ceb)
-- [DevOps Paradox](https://www.devopsparadox.com/)
+## DevOps Concepts I Mastered
+- **Continuous Integration & Continuous Deployment (CI/CD)**: Implementing end-to-end automation for building, testing, and deploying applications.
+- **Containerization & Orchestration**: Using Docker and Kubernetes for application packaging, deployment, and scalability.
+- **Infrastructure Automation**: Leveraging Terraform and Helm for creating, managing, and scaling infrastructure in a repeatable and consistent manner.
+- **Monitoring & Observability**: Setting up monitoring with Prometheus and Grafana to ensure system health and proactively address potential issues.
 
-## Slides
-- [Docker Deep Dive](https://www.slideshare.net/MehwishHayat3/docker-deep-dive-understanding-docker-engine-docker-for-devops?qid=0d2f5734-7fce-4f5c-8c0d-c555d6e53608&v=&b=&from_search=1)
+## Key Achievements
+- Successfully automated and optimized development pipelines using GitHub Actions for multiple projects.
+- Deployed containerized applications at scale with Kubernetes, ensuring high availability and fault tolerance.
+- Automated cloud infrastructure management with Terraform and Helm, reducing manual intervention and enhancing productivity.
+- Set up end-to-end monitoring and observability using Prometheus and Grafana to improve system reliability.
 
-## Course Progress 
-- [Docs sheet for students medium blog](https://docs.google.com/spreadsheets/d/1WCnEkaPGQr-BNXGG3JIzK5pzi7EmZq3hjvM_A4Uq1_g/edit#gid=0)
-- [Students Contribution Area](Students/contribution.md)
+## Explore More
+This repository serves as a practical showcase of my DevOps skills, and I encourage you to explore the various components of my work. Each folder or file in this repository contains examples, configurations, and setups to demonstrate my proficiency with the tools and practices mentioned above.
 
-## Cloud Native Students Days
-- [Event Planning and Hosting](CNSDays/eventplanning.md)
+## Thank You for Visiting!
+I hope this portfolio gives you a comprehensive view of my DevOps skills. If you have any questions or would like to collaborate, feel free to reach out. I'm always open to discussing new challenges and opportunities to apply DevOps principles.
+## Portfolio: [Portfolio link](https://huzaifa-haider.github.io/)
