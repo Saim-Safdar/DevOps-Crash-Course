@@ -707,19 +707,21 @@ https://medium.com/@awabamjid/kubernetes-configuration-file-declarative-manageme
 5) https://kyverno.io/docs/
 
 
-## Alamdar Hussain
+# Alamdar Hussain
 
 LinkedIn : https://www.linkedin.com/in/saral-hossain
-
 Twitter : https://twitter.com/SaiH0s
 
-# Blog I have written :
+## Blog I have written :
 1) Virtual Machine vs Container? what is right for your business?
     Medium Link : https://medium.com/@alamdar.hussain0007/virtual-machine-be4434bc7243
 2) GitOps with Kubernetes 
    Medium Link : https://medium.com/@alamdar.hussain0007/gitops-with-kubernetes-f0912b644925
+   Tweet Link : https://twitter.com/SaiH0s/status/1585331158841053185
+3) Deep-Dive into Argo workflow and Argo events
+   Medium Link : https://medium.com/@alamdar.hussain0007/deep-dive-into-argo-workflow-and-argo-events-d6a5d324f9d3
 
-# What I have learned In DevOps-Crash-Course
+## What I have learned In DevOps-Crash-Course
 
 1) Basics of Docker (including architecture of Docker)
 2) Signing Container (Docker) Images (Cosign)
@@ -729,13 +731,15 @@ Twitter : https://twitter.com/SaiH0s
 6) Different versions of Kubernetes such as k3s, k8s etc.
 7) Difference between Local(K3's,K8's) and Cloud(GKE,AKS,EKS) clusters
 8) Gitops and how it works(flux , argo ci/cd etc)
-9) How the open source community works and how I can contribute".
+9) Argoworkflow & ArgoEvents
+10) How the open source community works and how I can contribute".
 
-# Learning Resourse :
+## Learning Resourse :
 1) Best sourse of learning for me as a student is discord server (https://discord.gg/R36Y2wBM)
 2) https://docs.docker.com/
 3) https://kubernetes.io/docs
 4) https://kyverno.io/docs/
+5) https://argoproj.github.io/argo-events/installation/
 
 
 
