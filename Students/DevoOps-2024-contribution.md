@@ -8,6 +8,12 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Medium Profile link
 - Github Profile link
 
+- Ammar Bin Yasir 20I-0501
+- Linkedin profile: https://www.linkedin.com/in/ammar-bin-yasir-a687821ab/
+- Medium profile link https://medium.com/@ammarbinyasir/why-choose-flask-lightweight-frame-work-for-web-development-c869a14c321a
+- Github Profile link: https://github.com/AmmarBinYasir-ai
+- My blog explains that Flask is a lightweight, flexible Python framework that is very well adapted to small and medium web applications. Its easy integration results in simpler development and very good performance. Its simplicity, along with strong community support, makes it equally good both for beginners and for experienced developers.
+
 ## List your Blog post links here.
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
