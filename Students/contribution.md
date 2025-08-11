@@ -892,4 +892,30 @@ for i in future:
 
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
+------------------------
+
+# Ahmad Hassan
+  Roll no: 21i-0403
+### Socail Media Links
+[GitHub](https://github.com/AhmadHassan71)<br>
+[LinkedIn](https://www.linkedin.com/in/ahmad-hassan-a10781224/)<br>
+[Medium](https://medium.com/@ahmadhassan131003)<br>
+
+## About Me
+I am a Computer Science student at the National University of Computer and Emerging Sciences, driven by a passion for learning new technologies and exploring diverse domains. With a keen interest in DevOps, Cloud Computing, and Mobile Development, I am constantly seeking opportunities to expand my knowledge and apply it to real-world scenarios. My enthusiasm for innovation and continuous learning fuels my commitment to excellence in every project I undertake.
+
+## What I Learned
+As of the writing of this commit, I have learned the following topics in the DevOps course:
+- Workflow of DevOps
+- Containers, Images and DevOps vocabulary
+- Docker
+- Docker build
+- Docker Hub
+- Docker Compose
+- Multi Stage Docker Builds
+
+## Contribution Blogs I Have Written
+### [Streamlining Build Process using Multi Stage Docker Builds](https://medium.com/@ahmadhassan131003/streamlining-build-process-using-multi-stage-docker-builds-7497f95f9f1d)
+This blog provides a comprehensive guide on using multi-stage Docker builds to streamline the build process. It explains the benefits of multi-stage builds, such as reducing image size, improving security, and simplifying CI/CD pipelines. The article includes a step-by-step example of creating a Docker image for a simple Go application, demonstrating how to use multiple stages in a Dockerfile to optimize the final image.
+
 
