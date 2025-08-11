@@ -3,25 +3,24 @@
 This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
 
 ## Mandatory Things
-- Name and Roll number
+- Muhammad Arsal Munir 21I-0414
 - LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
 - Medium Profile link
 - Github Profile link
 
 ## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
+- Optimizing Docker containers for low-resource environments is crucial for efficient performance, cost savings, and scalability, especially on edge devices, IoT systems, or small virtual machines. Key strategies include minimizing image size with lightweight base images and multi-stage builds, managing resources by setting CPU and memory limits, optimizing application code, and fine-tuning Docker settings. Using monitoring tools like `cAdvisor`, `Prometheus`, and `Grafana` can help track and enhance container performance, ensuring smooth operation even in constrained environments.
 
-## Sanaullah Momin (21i-0614)
+- https://medium.com/@muhammadarsalmughal12/optimizing-docker-containers-for-low-resource-environments-300ccd91b06c
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+
+LinkedIn: https://www.linkedin.com/in/arsal-munir-a2a552264/
+
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+Blog link: https://medium.com/@muhammadarsalmughal12/optimizing-docker-containers-for-low-resource-environments-300ccd91b06c
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
 
-Learning resources: https://docs.docker.com/build/buildkit/
+
+
 
