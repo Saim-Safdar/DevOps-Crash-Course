@@ -2,26 +2,25 @@
 
 This course introduces students to the key principles of DevOps, a set of practices that combine software development (Dev) and IT operations (Ops) to improve collaboration, automate workflows, and enable continuous delivery. Students will learn how to bridge the gap between development and operations, focusing on automation, monitoring, infrastructure as code (IaC), containerization, and cloud services. This is the space where students can showcase their work based on the course material covered, including published articles, sample GitHub repositories, and links to their public profiles.
 
-## Mandatory Things
-- Name and Roll number
-- LinkedIn and X Profile (if any) link to post if you have shared it publicly (if any)
-- Medium Profile link
-- Github Profile link
 
 ## List your Blog post links here.
-- Summarize your Blog post (max 3 sentences), and what you have learned throughout.
-- Mention learning Resources. 
 
-## Sanaullah Momin (21i-0614)
+https://medium.com/@ahsanwasim11/reimagining-devops-with-wasm-the-lightweight-powerhouse-for-cloud-native-apps-186609f8b101
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+The blog tells about how WebAssembly (WASM) can revolutionize DevOps by offering a lightweight, secure, and highly portable alternative to traditional containers.
+It demonstrates how to build, run, and integrate WASM modules into DevOps pipelines.
+It shows the potential to enhance cloud-native applications' performance and security
+
+## Ahsan Wasim (21i-0440)
+
+LinkedIn: https://www.linkedin.com/in/ahsan-wasim-a6a508253/
+Medium: https://medium.com/@ahsanwasim11
+Github: https://github.com/AhsanWasim
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+Blog link: https://medium.com/@ahsanwasim11/reimagining-devops-with-wasm-the-lightweight-powerhouse-for-cloud-native-apps-186609f8b101
+This blog is about WASM and its use in DevOps. This also explores the use of WASM in cloud-native applicaitons.
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
-
-Learning resources: https://docs.docker.com/build/buildkit/
+Learning resources: https://kodekloud.com/community/t/what-is-webassembly/266689
+https://devopscon.io/business-company-culture/webassembly-the-container-killer/
 
