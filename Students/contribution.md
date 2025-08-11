@@ -893,3 +893,24 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Adnan Yousaf:
+Linkedin: www.linkedin.com/in/adnanyousaf10
+
+# What I learned
+I learned the following things:
+
+1. Generate unique SSH keys for different accounts
+
+2. Add your keys to GitHub securely
+
+3. Configure your SSH client for seamless switching between accounts
+
+4. Troubleshoot common issues
+
+# Blogs I have written
+I've written one blogs as of the writing of this commit. These can be found at medium.com and on the official Cloud Native Islamabad.
+
+## 1. Optimize Your Workflow: Configuring Multiple GitHub Accounts on a Single Machine with SSH
+   
+   Medium Link:     https://medium.com/@adnanyousaf1357/optimize-your-workflow-configuring-multiple-github-accounts-on-a-single-machine-with-ssh-b59c81e3c859
+   Hashnode Link:   https://adnanyousaf.hashnode.dev/optimize-your-workflow-configuring-multiple-github-accounts-on-a-single-machine-with-ssh
