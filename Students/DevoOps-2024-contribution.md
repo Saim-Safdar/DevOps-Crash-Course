@@ -25,3 +25,17 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Ayesha Faisal
+Roll Number: 21i-0739
+
+Github: https://github.com/ayeshafaisallll
+Medium: https://medium.com/@ayeshafaisal979/build-automation-in-devops-the-importance-of-git-builds-1e0f0786ab2f
+
+## BLOG: Build Automation in DevOps: The Importance of Git Builds
+
+# Summary: 
+A key element of the DevOps methodology, build automation enables teams to produce high-quality software quickly and at scale. Git is essential to automating builds because of its robust version control features and smooth integration capabilities. Organizations can improve the consistency, dependability, and efficiency of their software development processes by utilizing Git-based build automation. This will eventually result in faster feature delivery and a more robust end product.
+
+# Learning Resources:
+https://www.harness.io/harness-devops-academy/what-is-build-automation#introduction
+
