@@ -878,7 +878,47 @@ In this I examined Linkerd and Istio tools and evaluate them against various sta
 
 ## My Future Plan
 
-```python
+# M Hanzella Khan
+
+##20P-0616
+
+## Social Profiles
+- **LinkedIn**: [Hanzella Khan on LinkedIn](https://www.linkedin.com/in/hanzella-khan/)
+- **Twitter**: [@HanzellaKhan](https://twitter.com/HanzellaKhan)
+
+---
+
+## About Me
+
+I am a DevOps enthusiast with hands-on experience in containerization, CI/CD, and infrastructure management. My journey in DevOps has allowed me to explore a wide range of tools and practices that enhance software delivery through automation, security, and scalability.
+
+## Skills and Knowledge
+
+Through my DevOps journey, I have gained experience in:
+1. **GitOps** - Leveraging Git for infrastructure and application management.
+2. **Docker Fundamentals and Architecture** - Understanding Docker's structure and applying it to real-world scenarios.
+3. **Using Docker and Alternatives** - Practical knowledge of Docker and exploring alternatives such as Podman and Kyverno.
+4. **Container Security** - Using tools like Cosign to sign and verify container images.3. **Docker Alternatives** - Tools like Podman and Kyverno.
+4. **Container Security** - Signing and verifying images using Cosign.
+5. **Kubernetes Overview** - Core concepts and distributions (k3s, k8s).
+
+## Blogs
+
+I have authored articles to share my learnings with the community:
+
+### 1. **DevSecOps: Integrating Security and Compliance into DevOps**  
+   - DevSecOps, or Development, Security, and Operations, is an evolution of DevOps that emphasizes the integration of security practices at every phase of the software development lifecycle (SDLC).
+   - [Read on Medium](https://medium.com/@hanzellaqutub96/devsecops-integrating-security-and-compliance-into-devops-ec07ded9daa0)
+
+### 2. **Infrastructure as Code (IaC): Revolutionizing Infrastructure Management for the Modern Era**  
+   - Instead of manually configuring servers, networks, or storage devices, IaC tools like Terraform, Ansible, and AWS CloudFormation allow infrastructure to be managed with code in a version-controlled, repeatable, and scalable manner.
+   - [Read on Medium](https://medium.com/@hanzellaqutub96/infrastructure-as-code-iac-revolutionizing-infrastructure-management-for-the-modern-era-3be52eb34a39)
+
+--- 
+
+## Connect with Me
+
+Feel free to reach out if you’d like to discuss DevOps, containerization, or anything tech-related!
 
 future = ['Implement Techniques Learnt in DevOps in FYP', 
 'MLOPs', 'Deployment of FYP on Cloud', 'Open Source Contribution',
