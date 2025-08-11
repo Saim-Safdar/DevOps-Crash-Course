@@ -12,16 +12,16 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
-## Sanaullah Momin (21i-0614)
+## Fauz Ahmed (21i-2542)
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+LinkedIn: https://www.linkedin.com/in/fauz-ahmed/
+Medium: https://medium.com/@fauzahmed2
+Github: https://github.com/fauz2003
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+Blog link: https://medium.com/@fauzahmed2/gitops-the-next-evolution-of-devops-18630e82378b
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+This blog is about GitOps, how it covers the gap created by traditional DevOps practices, the tools and technologies used and how it differs from DevOps.
 
-Learning resources: https://docs.docker.com/build/buildkit/
+Learning resources: https://about.gitlab.com/topics/gitops/
 
