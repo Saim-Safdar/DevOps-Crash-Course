@@ -12,16 +12,15 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
-## Sanaullah Momin (21i-0614)
+## Muhammad Sohaib (21i-0411)
 
 LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+Medium: https://medium.com/@sohaibbutt042
+Github: https://github.com/Sohaib0123
 
 ## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+Blog link: https://medium.com/@sohaibbutt042/a-clear-guide-to-supervised-and-unsupervised-learning-in-machine-learning-416b727af100
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
+Machine learning has revolutionized industries by offering two key approaches: supervised and unsupervised learning. Supervised learning, much like having a teacher, uses labelled data to train machines in making accurate predictions, widely applied in healthcare and finance. Unsupervised learning explores patterns in unlabelled data, useful for tasks like customer segmentation and anomaly detection, though it's harder to evaluate. Both methods have their strengths and challenges, but together, they drive innovation and push the boundaries of technology, making machine learning a vital tool in today’s world
 
-Learning resources: https://docs.docker.com/build/buildkit/
 
