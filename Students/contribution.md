@@ -779,7 +779,7 @@ https://medium.com/@hab7tarar/introduction-to-minikube-8d4b5b1536f0
 Linkedin: https://www.linkedin.com/in/hammasjalal/
 
 # Blogs I have written
-I have written two blogs on GitLab DevOps Platform.
+I have written a total of 3 blogs till now on different DevOps tools.
 
 ## 1. Let’s do DevOps with GitLab — an intro to GitLab
    
@@ -788,6 +788,10 @@ I have written two blogs on GitLab DevOps Platform.
 ## 2. Let’s do DevOps with GitLab — A hands-on approach
    
    Medium Link:  https://medium.com/@hammasjalal/lets-do-devops-with-gitlab-a-hands-on-approach-7183492d8e02
+   
+## 3. How to use Terraform: A Simple Demo
+   
+   Medium Link:  https://medium.com/@hammasjalal/how-to-use-terraform-a-simple-demo-397750d77aef
 
 ## Abdul Aleem
 
