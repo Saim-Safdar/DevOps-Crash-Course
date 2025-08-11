@@ -893,3 +893,26 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+# Abdur Rafay:
+Linkedin: https://www.linkedin.com/in/abdur-rafay-cheema-859984262/
+Roll No : 20I-0989
+
+
+## What I learned
+1.	Docker 
+2. Git
+3. Intro to CI/CD
+4. Intro to DevOps
+
+## My Blogs:
+### 1.	Introduction to DevOps
+
+https://medium.com/@i200989/introduction-to-devops-9c8cfff271df
+
+
+
+## Links to Learning Resources
+1.	https://www.docker.com/
+2.	https://kubernetes.io/
+3. https://www.youtube.com/@CloudNativeIslamabad
+
