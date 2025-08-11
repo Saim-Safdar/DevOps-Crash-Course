@@ -25,3 +25,14 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+## Asjad Rauf (21i-0493)
+
+Medium: https://medium.com/@asjadrauf07
+Github: https://github.com/AJRAUF
+
+## Blog Post
+Blog link: https://medium.com/@asjadrauf07/a-deep-dive-into-alpine-linux-docker-image-bd1b2b9b5276
+
+I learned that Alpine Linux is a lightweight and security-focused Linux distribution, ideal for Docker containers due to its minimal resource usage, small image size, and enhanced security features. It offers fast startup times, and is well-suited for microservices, CI/CD pipelines, and security-sensitive applications, though it may pose some compatibility challenges.
+
+Learning resources: https://www.geeksforgeeks.org/alpine-linux/
