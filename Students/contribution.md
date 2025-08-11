@@ -893,3 +893,30 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+
+# Umair Khan - 21I-2556
+Github : http://github.com/umair228
+Linkedin: https://www.linkedin.com/in/umair228/
+Medium : https://medium.com/@umairkh8251
+
+# What I learned
+Following are the topics we discussed in DevOps course:
+1.	Linux Essentials
+2.	Github
+3.	Github Pages
+4.	DevOps Fundamentals
+5.	Docker
+6.	Containerization
+7.	Open Source Contribution
+
+
+# My Blogs:
+## 1.	OpenCL Development with Docker: A Step-by-Step Guide
+In this blog, I discussed how to streamline your parallel computing projects with Docker and OpenCL.It will guide you through setting up an isolated environment for OpenCL development using Docker, showcasing a practical example to demonstrate the power and efficiency of combining these tools. Learn how Docker simplifies setup and management, while OpenCL accelerates computation, making your development process faster and more effective.
+
+https://medium.com/@umairkh8251/opencl-development-with-docker-a-step-by-step-guide-5ee8d378b533
+
+# Links to learning resources:
+1.	https://www.docker.com/
+2.	https://www.khronos.org/opencl/
+

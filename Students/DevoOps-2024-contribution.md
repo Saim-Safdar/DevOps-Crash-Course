@@ -25,3 +25,30 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+# Umair Khan - 21I-2556
+- Linkedin: https://www.linkedin.com/in/umair228/
+- Medium : https://medium.com/@umairkh8251
+- Github : http://github.com/umair228
+
+### What I learned
+Following are the topics we discussed in DevOps course:
+1.	Linux Essentials
+2.	Github
+3.	Github Pages
+4.	DevOps Fundamentals
+5.	Docker
+6.	Containerization
+7.	Open Source Contribution
+
+
+### My Blogs:
+#### 1.	OpenCL Development with Docker: A Step-by-Step Guide
+In this blog, I discussed how to streamline your parallel computing projects with Docker and OpenCL.It will guide you through setting up an isolated environment for OpenCL development using Docker, showcasing a practical example to demonstrate the power and efficiency of combining these tools.
+
+https://medium.com/@umairkh8251/opencl-development-with-docker-a-step-by-step-guide-5ee8d378b533
+
+### Links to learning resources:
+1.	https://www.docker.com/
+2.	https://www.khronos.org/opencl/
+3.  https://linuxhandbook.com/latest/
+4.  https://labs.iximiuz.com/playgrounds
