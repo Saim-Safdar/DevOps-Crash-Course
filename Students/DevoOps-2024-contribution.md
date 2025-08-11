@@ -25,3 +25,14 @@ This blog is about Docker BuildKit. Docker BuildKit is an advanced image buildin
 
 Learning resources: https://docs.docker.com/build/buildkit/
 
+##Muhammad Dayyan Ahmad
+
+Linkedin : https://www.linkedin.com/in/dayyan-ahmad/
+Medium : https://medium.com/@dayyanahmad12377
+Github : https://github.com/RayeDayyan
+
+##Blog Post
+1st Blog : https://medium.com/@dayyanahmad12377/pulseviz-ecg-re-imagined-6ee8b5df01f1
+
+For the first vlog , I decided to write about my FYP, that is PulseViz, in the blog , I covered major segments like what the problem is, what we propose as a solution , whats the domain of the whole project , the overall flow of the developed application and the technoglogies we're going to use .
+
