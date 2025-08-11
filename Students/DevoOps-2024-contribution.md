@@ -12,6 +12,19 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
+## Muhammad Mudasir Saeed (21i-0592)
+- LinkedIn: https://www.linkedin.com/in/mudasirsaeed032/
+- Medium: https://medium.com/@mudasir.saeed01
+- Github: https://github.com/Mudasirsaeed032
+
+## Blog Post
+Blog Link: https://medium.com/@mudasir.saeed01/optimizing-docker-images-for-faster-mern-stack-deployments-e8acb31ae16c
+- This blog outlines simple strategies to optimize Docker images for faster MERN stack deployments, including using lightweight images, multi-stage builds, `.dockerignore` files, and caching techniques for more efficient builds and smaller image sizes.
+
+Learning Resources: 
+- https://www.augmentedmind.de/2024/06/11/optimize-docker-image-size/
+- https://redragno.hashnode.dev/dockerizing-a-mern-stack-web-application
+
 ## Sanaullah Momin (21i-0614)
 
 LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
